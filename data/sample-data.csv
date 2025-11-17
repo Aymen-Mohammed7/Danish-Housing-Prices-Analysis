@@ -1,0 +1,1001 @@
+date,quarter,house_id,house_type,sales_type,year_build,purchase_price,%_change_between_offer_and_purchase,no_rooms,square_meters_num,square_meter_price,address,zip_code,city,area,region,nominal_interest_rate,annual_inflation_rate,mortgage_bond_yield_rate
+10/24/2024,2024Q4,16,Villa,regular_sale,1997,6500000,-3,5,142,45774.65,Spættevej 16,2680,Solrød Strand,"Capital, Copenhagen",Zealand,3.1,,
+10/24/2024,2024Q4,13,Apartment,regular_sale,1885,3400000,0,2,46,73913.05,"Jakob Dannefærds Vej 10B, 4. th",1973,Frederiksberg C,"Capital, Copenhagen",Zealand,3.1,,
+10/23/2024,2024Q4,60,Villa,regular_sale,1949,4550000,-4,4,112,40625,Vestre Plantagevej 3,2680,Solrød Strand,"Capital, Copenhagen",Zealand,3.1,,
+10/23/2024,2024Q4,29,Villa,regular_sale,2001,1630000,-12,4,186,8763.44,Toftebjerg 3,4400,Kalundborg,Other islands,Zealand,3.1,,
+10/22/2024,2024Q4,92,Apartment,regular_sale,1965,1975000,-10,3,82,24085.365,"Ryttergårdsvej 20, 1. 113",3520,Farum,North Zealand,Zealand,3.1,,
+10/22/2024,2024Q4,82,Villa,regular_sale,1858,1850000,0,5,154,12012.987,Lehnskovvej 220,5700,Svendborg,Fyn & islands,Fyn & islands,3.1,,
+10/22/2024,2024Q4,100,Summerhouse,regular_sale,1970,360000,0,3,42,8571.429,Alkærvej 9,2740,Skovlunde,"Capital, Copenhagen",Zealand,3.1,,
+10/21/2024,2024Q4,125,Townhouse,family_sale,1980,700000,0,2,62,11290.322,Kirkebyen 3F,7950,Erslev,South jutland,Jutland,3.1,,
+10/20/2024,2024Q4,150,Villa,regular_sale,1943,500000,0,6,202,2475.2476,Smedegade 15,6535,Branderup J,South jutland,Jutland,3.1,,
+10/18/2024,2024Q4,177,Villa,regular_sale,1976,850000,-13,4,118,7203.3896,Overmarken 26,6670,Holsted,South jutland,Jutland,3.1,,
+10/17/2024,2024Q4,196,Townhouse,regular_sale,1976,300000,0,2,67,4477.612,Anemonevej 7,6670,Holsted,South jutland,Jutland,3.1,,
+10/17/2024,2024Q4,204,Villa,regular_sale,1932,2000000,-13,4,160,12500,Ewalds Alle 57,6700,Esbjerg,South jutland,Jutland,3.1,,
+10/17/2024,2024Q4,195,Villa,regular_sale,1966,1870000,-1,4,125,14960,Havretoften 5,3630,Jægerspris,North Zealand,Zealand,3.1,,
+10/16/2024,2024Q4,228,Villa,regular_sale,1963,3350000,-9,4,108,31018.518,Ellesvinget 5,8600,Silkeborg,East & mid jutland,Jutland,3.1,,
+10/16/2024,2024Q4,213,Villa,regular_sale,1830,325000,0,6,136,2389.7058,Slagelsevej 16,4460,Snertinge,Other islands,Zealand,3.1,,
+10/15/2024,2024Q4,240,Villa,regular_sale,1967,1750000,-8,4,130,13461.538,Engtoften 19,5320,Agedrup,Fyn & islands,Fyn & islands,3.1,,
+10/15/2024,2024Q4,239,Apartment,family_sale,1967,2700000,0,3,105,25714.285,"Kystvej 20, 1. 6",3100,Hornbæk,North Zealand,Zealand,3.1,,
+10/14/2024,2024Q4,291,Villa,regular_sale,1980,2525000,21,4,139,18165.467,Sundhøj 17,6400,Sønderborg,South jutland,Jutland,3.1,,
+10/14/2024,2024Q4,297,Villa,regular_sale,1936,1495000,0,4,100,14950,Tøndervej 57,6200,Aabenraa,South jutland,Jutland,3.1,,
+10/14/2024,2024Q4,309,Villa,regular_sale,1949,1940000,-3,4,106,18301.887,Herman Bangs Vej 5,7000,Fredericia,South jutland,Jutland,3.1,,
+10/13/2024,2024Q4,384,Apartment,regular_sale,1967,1825000,0,3,75,24333.334,"Gyvelvej 12A, 3. tv",4000,Roskilde,Other islands,Zealand,3.1,,
+10/13/2024,2024Q4,354,Summerhouse,regular_sale,1947,995000,0,3,35,28428.572,Kildebakkerne 33,3310,Alsted,North Zealand,Zealand,3.1,,
+10/13/2024,2024Q4,370,Apartment,regular_sale,2022,4995000,0,4,118,42330.508,Helga Pedersens Gade 61,8000,Aarhus C,East & mid jutland,Jutland,3.1,,
+10/12/2024,2024Q4,391,Apartment,other_sale,1981,1370000,0,2,63,21746.031,Bredstedgade 32,5000,Odense C,Fyn & islands,Fyn & islands,3.1,,
+10/10/2024,2024Q4,402,Villa,regular_sale,1965,1250000,-3,4,135,9259.259,Norgesgade 21,7430,Ikast,South jutland,Jutland,3.1,,
+10/10/2024,2024Q4,460,Farm,regular_sale,1877,700000,0,8,271,2583.026,Vestrupvej 24,9600,Aars,North jutland,Jutland,3.1,,
+10/10/2024,2024Q4,407,Villa,regular_sale,1942,950000,0,5,160,5937.5,Barrit Langgade 71,7150,Barrit,South jutland,Jutland,3.1,,
+10/10/2024,2024Q4,468,Villa,regular_sale,1904,6500000,0,3,132,49242.426,Bytoftevej 2B,4640,Faxe,Other islands,Zealand,3.1,,
+10/10/2024,2024Q4,428,Summerhouse,other_sale,1973,2400000,0,4,71,33802.816,Bjergkløverstien 4,4583,Sjællands Odde,Other islands,Zealand,3.1,,
+10/10/2024,2024Q4,419,Townhouse,regular_sale,1972,310000,0,3,90,3444.4443,Vibevej 18,7760,Hurup Thy,South jutland,Jutland,3.1,,
+10/10/2024,2024Q4,469,Apartment,regular_sale,2017,4675000,0,4,93,50268.816,"Kløverbladsgade 71, 3. th",2500,Valby,"Capital, Copenhagen",Zealand,3.1,,
+10/10/2024,2024Q4,454,Summerhouse,family_sale,1987,719200,0,4,65,11064.615,Engelsødvej 8,5700,Svendborg,Fyn & islands,Fyn & islands,3.1,,
+10/10/2024,2024Q4,405,Villa,regular_sale,2012,10800000,-2,6,176,61363.637,Kystvej 14A,3050,Humlebæk,North Zealand,Zealand,3.1,,
+10/9/2024,2024Q4,550,Summerhouse,regular_sale,1996,915000,-3,2,29,31551.725,Skovpibervej 4,4200,Slagelse,Other islands,Zealand,3.1,,
+10/9/2024,2024Q4,505,Summerhouse,regular_sale,1968,1725000,-4,6,111,15540.541,Thorsvej 34,4560,Vig,Other islands,Zealand,3.1,,
+10/9/2024,2024Q4,557,Villa,regular_sale,2014,3820000,-4,5,191,20000,Jonsgården 15,4200,Slagelse,Other islands,Zealand,3.1,,
+10/8/2024,2024Q4,571,Apartment,regular_sale,2005,8000000,0,3,107,74766.35,"Ordrupvej 130B, st. tv",2920,Charlottenlund,"Capital, Copenhagen",Zealand,3.1,,
+10/8/2024,2024Q4,575,Villa,regular_sale,1971,3600000,-4,4,129,27906.977,Engrøjel 84,2670,Greve,"Capital, Copenhagen",Zealand,3.1,,
+10/8/2024,2024Q4,560,Villa,regular_sale,1850,500000,-37,4,159,3144.654,Skovs-Højrup-Vej 55,5270,Odense N,Fyn & islands,Fyn & islands,3.1,,
+10/8/2024,2024Q4,612,Summerhouse,regular_sale,1968,1700000,-15,3,53,32075.473,Fredskovens Gyvelvej 3,4480,Store Fuglede,Other islands,Zealand,3.1,,
+10/8/2024,2024Q4,589,Villa,regular_sale,1970,4900000,-7,3,240,20416.666,Hagelbjergvej 19,4100,Ringsted,Other islands,Zealand,3.1,,
+10/8/2024,2024Q4,611,Summerhouse,family_sale,1979,1105000,0,4,75,14733.333,Ravnevej 6,4872,Idestrup,Other islands,Zealand,3.1,,
+10/7/2024,2024Q4,726,Apartment,regular_sale,1880,3500000,0,3,92,38043.477,"Persillegade 6, 1",6200,Aabenraa,South jutland,Jutland,3.1,,
+10/7/2024,2024Q4,710,Villa,regular_sale,1978,3200000,-8,4,145,22068.965,Fyrrevænget 8,8541,Skødstrup,East & mid jutland,Jutland,3.1,,
+10/7/2024,2024Q4,705,Summerhouse,family_sale,1972,1003850,0,3,82,12242.073,Udlodden 39,4500,Nykøbing Sj,Other islands,Zealand,3.1,,
+10/6/2024,2024Q4,734,Apartment,family_sale,1966,1925000,0,3,43,44767.44,"Tagensvej 47, 6. 44",2200,København N,"Capital, Copenhagen",Zealand,3.1,,
+10/6/2024,2024Q4,768,Villa,regular_sale,1912,1500000,0,6,189,7936.508,Nørvej 32,7960,Karby,South jutland,Jutland,3.1,,
+10/6/2024,2024Q4,806,Villa,regular_sale,2009,1695000,0,5,141,12021.276,Skadegårdsparken 4,5600,Faaborg,Fyn & islands,Fyn & islands,3.1,,
+10/6/2024,2024Q4,731,Villa,regular_sale,1952,6550000,0,5,100,65500,Holbækvej 157,4400,Kalundborg,Other islands,Zealand,3.1,,
+10/5/2024,2024Q4,831,Apartment,regular_sale,1899,2125000,0,3,82,25914.635,"Holsedore 18B, st. 3",5000,Odense C,Fyn & islands,Fyn & islands,3.1,,
+10/5/2024,2024Q4,817,Townhouse,regular_sale,1982,2100000,-7,3,106,19811.32,Krondrevet 22,3140,Ãlsgårde,North Zealand,Zealand,3.1,,
+10/3/2024,2024Q4,904,Villa,regular_sale,1938,2300000,0,4,182,12637.362,Borumvej 52,7620,Lemvig,South jutland,Jutland,3.1,,
+10/3/2024,2024Q4,882,Summerhouse,regular_sale,1979,1570000,-2,3,72,21805.555,Søknudevej 20,6823,Ansager,South jutland,Jutland,3.1,,
+10/3/2024,2024Q4,926,Villa,regular_sale,1905,1800000,0,4,190,9473.685,Hald Møllevej 3,8983,Gjerlev J,East & mid jutland,Jutland,3.1,,
+10/3/2024,2024Q4,881,Villa,regular_sale,1951,7000000,-18,4,123,56910.57,Moseranden 9,2970,Hørsholm,"Capital, Copenhagen",Zealand,3.1,,
+10/3/2024,2024Q4,886,Summerhouse,regular_sale,1965,1500000,-6,3,75,20000,Ternevej 2,5610,Assens,Fyn & islands,Fyn & islands,3.1,,
+10/3/2024,2024Q4,889,Villa,regular_sale,1933,1250000,-3,6,118,10593.221,Sankelmarksvej 17,4760,Vordingborg,Other islands,Zealand,3.1,,
+10/3/2024,2024Q4,874,Villa,other_sale,1904,650000,0,7,235,2765.9575,Hovedgaden 31A,7490,Aulum,South jutland,Jutland,3.1,,
+10/3/2024,2024Q4,879,Villa,regular_sale,1910,950000,-14,4,191,4973.822,Stubbe Søvej 7,8400,Ebeltoft,East & mid jutland,Jutland,3.1,,
+10/2/2024,2024Q4,1053,Villa,regular_sale,1937,461500,4,4,115,4013.0435,Bladstrupvej 92,5400,Bogense,Fyn & islands,Fyn & islands,3.1,,
+10/2/2024,2024Q4,1064,Summerhouse,regular_sale,2023,3600000,-5,3,116,31034.482,Hejrevej 13A,8831,Løgstrup,East & mid jutland,Jutland,3.1,,
+10/2/2024,2024Q4,1008,Summerhouse,regular_sale,1976,380200,0,2,56,6789.2856,Hyacintstien 6,2600,Glostrup,"Capital, Copenhagen",Zealand,3.1,,
+10/2/2024,2024Q4,1027,Apartment,regular_sale,1935,2900000,-9,6,227,12775.33,"Resenvej 22, st",7800,Skive,South jutland,Jutland,3.1,,
+10/2/2024,2024Q4,1038,Farm,regular_sale,1857,19500000,0,10,512,38085.938,Næstvedvej 1,4250,Fuglebjerg,Other islands,Zealand,3.1,,
+10/2/2024,2024Q4,967,Villa,regular_sale,1910,2267500,-1,5,202,11225.247,Purupvej 2,8752,Astbirk,East & mid jutland,Jutland,3.1,,
+10/2/2024,2024Q4,1056,Summerhouse,regular_sale,2015,2400000,-4,4,90,26666.666,Karsebakken 10,4500,Nykøbing Sj,Other islands,Zealand,3.1,,
+10/2/2024,2024Q4,1036,Villa,regular_sale,1976,1500000,-3,6,144,10416.667,Løkkegårdsvej 104,6230,Rødekro,South jutland,Jutland,3.1,,
+10/2/2024,2024Q4,981,Summerhouse,regular_sale,1998,2835000,-5,3,58,48879.31,Norsmindevej 171C,8340,Malling,East & mid jutland,Jutland,3.1,,
+10/2/2024,2024Q4,1044,Townhouse,family_sale,1984,1275000,0,4,127,10039.37,Byskrivervej 12D,8920,Randers NV,East & mid jutland,Jutland,3.1,,
+10/1/2024,2024Q4,1129,Villa,regular_sale,1957,445000,-10,3,129,3449.6123,Dølbyvej 129,7800,Skive,South jutland,Jutland,3.1,,
+10/1/2024,2024Q4,1175,Summerhouse,regular_sale,2021,1650000,0,2,48,34375,Fjordstien 176,6950,Ringkøbing,South jutland,Jutland,3.1,,
+10/1/2024,2024Q4,1154,Apartment,regular_sale,1977,1150000,0,3,73,15753.425,"Vestergade 56A, st",7400,Herning,South jutland,Jutland,3.1,,
+10/1/2024,2024Q4,1116,Villa,regular_sale,1890,500000,-22,8,101,4950.495,Ravnholtvej 2,5853,Arbæk,Fyn & islands,Fyn & islands,3.1,,
+10/1/2024,2024Q4,1158,Townhouse,regular_sale,1897,750000,0,4,84,8928.571,Sønder Aksevej 10A,9460,Brovst,North jutland,Jutland,3.1,,
+10/1/2024,2024Q4,1179,Apartment,regular_sale,1938,1755000,0,3,55,31909.092,"Vadgårdsvej 2, 1. 3",2860,Søborg,"Capital, Copenhagen",Zealand,3.1,,
+10/1/2024,2024Q4,1092,Villa,family_sale,1900,544000,0,2,67,8119.403,"Strandvejen 52, 1. 108",6720,Fanø,South jutland,Jutland,3.1,,
+10/1/2024,2024Q4,1174,Apartment,other_sale,2023,4200000,0,5,114,36842.105,Ericavej 161C,2820,Gentofte,"Capital, Copenhagen",Zealand,3.1,,
+9/30/2024,2024Q3,1326,Apartment,regular_sale,2020,2470000,-5,3,74,33378.38,"Cikoriegade 17, st. 1",2640,Hedehusene,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/30/2024,2024Q3,1265,Apartment,regular_sale,1900,1120000,-2,2,39,28717.95,"Valdemarsgade 12, 3. tv",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+9/30/2024,2024Q3,1345,Apartment,regular_sale,1921,725000,0,3,116,6250,Lønborgvej 14A,6880,Tarm,South jutland,Jutland,3.35,1.13,4.34
+9/30/2024,2024Q3,1233,Villa,regular_sale,1994,1475000,-8,4,127,11614.173,Ãvej 2A,7451,Sunds,South jutland,Jutland,3.35,1.13,4.34
+9/30/2024,2024Q3,1229,Villa,regular_sale,1850,1775000,-13,5,160,11093.75,Farvergårdsvej 6,3200,Helsinge,North Zealand,Zealand,3.35,1.13,4.34
+9/30/2024,2024Q3,1286,Apartment,family_sale,1966,1075000,0,2,54,19907.408,"H. C. Andersens Vej 34, st. mf",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+9/30/2024,2024Q3,1219,Farm,regular_sale,1912,3600000,-17,6,149,24161.074,Holbækvej 188,4440,Mørkøv,Other islands,Zealand,3.35,1.13,4.34
+9/30/2024,2024Q3,1212,Villa,regular_sale,1950,3250000,0,2,125,26000,Strandvolden 25,3730,Nexø,Bornholm,Bornholm,3.35,1.13,4.34
+9/30/2024,2024Q3,1300,Apartment,regular_sale,1971,1765000,0,3,78,22628.205,"Hedekæret 38, 1. th",2640,Hedehusene,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/30/2024,2024Q3,1227,Villa,regular_sale,1900,875000,0,7,246,3556.9106,Lundøvej 17,7840,Højslev,South jutland,Jutland,3.35,1.13,4.34
+9/30/2024,2024Q3,1259,Villa,regular_sale,1985,1300000,-7,5,133,9774.437,Skærvegyden 29,8723,Løsning,East & mid jutland,Jutland,3.35,1.13,4.34
+9/30/2024,2024Q3,1282,Farm,family_sale,1861,1105000,0,9,180,6138.8887,Ravnebjerggyden 197,5250,Odense SV,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/30/2024,2024Q3,1339,Villa,regular_sale,1897,410000,0,6,133,3082.7068,Hovedgaden 65,4520,Svinninge,Other islands,Zealand,3.35,1.13,4.34
+9/30/2024,2024Q3,1336,Summerhouse,regular_sale,1869,1525000,0,4,97,15721.649,Blæsenborg 5,4640,Faxe,Other islands,Zealand,3.35,1.13,4.34
+9/29/2024,2024Q3,1512,Apartment,regular_sale,2020,6900000,0,4,99,69696.97,"Andrei Sakharovs Vej 21, 4. mf",2450,København SV,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/29/2024,2024Q3,1547,Apartment,regular_sale,1962,800000,0,2,88,9090.909,"Teaterstien 19, 1. 11",6100,Haderslev,South jutland,Jutland,3.35,1.13,4.34
+9/29/2024,2024Q3,1510,Villa,regular_sale,1991,1250000,0,8,237,5274.2617,Okslundvej 4,6330,Padborg,South jutland,Jutland,3.35,1.13,4.34
+9/29/2024,2024Q3,1387,Townhouse,regular_sale,1900,1590000,-16,10,403,3945.4094,Kirkebakken 22,8970,Havndal,East & mid jutland,Jutland,3.35,1.13,4.34
+9/29/2024,2024Q3,1397,Townhouse,regular_sale,1882,1195000,0,4,95,12578.947,Strandgade 30,9300,Sæby,North jutland,Jutland,3.35,1.13,4.34
+9/29/2024,2024Q3,1538,Summerhouse,family_sale,1971,537200,0,4,75,7162.6665,Neptunvej 37,4900,Nakskov,Other islands,Zealand,3.35,1.13,4.34
+9/29/2024,2024Q3,1470,Villa,regular_sale,1955,1485000,-2,3,108,13750,Idomvej 8,7500,Holstebro,South jutland,Jutland,3.35,1.13,4.34
+9/29/2024,2024Q3,1522,Apartment,regular_sale,1971,1270000,0,1,38,33421.05,"Kongovej 35A, st. 18",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/29/2024,2024Q3,1515,Apartment,regular_sale,2009,1650000,0,3,107,15420.561,"Gl. Skolevej 2, 1. 3",7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+9/29/2024,2024Q3,1502,Townhouse,regular_sale,1917,9404500,0,4,126,74638.89,Stormarks AllÃ© 40,4900,Nakskov,Other islands,Zealand,3.35,1.13,4.34
+9/28/2024,2024Q3,1584,Farm,regular_sale,1939,1450000,0,6,149,9731.544,Voldkærvej 116,9490,Pandrup,North jutland,Jutland,3.35,1.13,4.34
+9/28/2024,2024Q3,1577,Villa,regular_sale,1970,1300000,-7,4,134,9701.492,Peder Andersens Vej 2,9310,Vodskov,North jutland,Jutland,3.35,1.13,4.34
+9/28/2024,2024Q3,1589,Townhouse,regular_sale,1981,2895000,-8,4,137,21131.387,Lundegårdsparken 20,4030,Tune,Other islands,Zealand,3.35,1.13,4.34
+9/26/2024,2024Q3,1649,Villa,regular_sale,1934,875000,-8,4,111,7882.883,Trønningevej 3,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+9/26/2024,2024Q3,1714,Apartment,other_sale,1975,280000,0,2,60,4666.6665,"Høkervej 5D, st. 104",9492,Blokhus,North jutland,Jutland,3.35,1.13,4.34
+9/26/2024,2024Q3,1722,Townhouse,regular_sale,1968,2795000,0,5,116,24094.828,Sankt Ibs Alle 58,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/26/2024,2024Q3,1750,Summerhouse,regular_sale,1974,750000,0,3,76,9868.421,Illeris 34,9640,Farsø,North jutland,Jutland,3.35,1.13,4.34
+9/26/2024,2024Q3,1667,Summerhouse,regular_sale,1998,755000,0,3,50,15100,Bork Hytteby 191,6893,Hemmet,South jutland,Jutland,3.35,1.13,4.34
+9/26/2024,2024Q3,1691,Villa,regular_sale,2000,2850000,-5,5,174,16379.311,Kirsebærvej 6,4720,Præstø,Other islands,Zealand,3.35,1.13,4.34
+9/26/2024,2024Q3,1730,Townhouse,regular_sale,2021,2400000,-4,4,110,21818.182,Holing Engpark 55,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+9/26/2024,2024Q3,1751,Summerhouse,regular_sale,2005,3000000,-6,5,119,25210.084,Ammekær 33,3250,Gilleleje,North Zealand,Zealand,3.35,1.13,4.34
+9/26/2024,2024Q3,1746,Villa,regular_sale,1954,3045000,-2,3,84,36250,Kingosvej 79,3000,Helsingør,North Zealand,Zealand,3.35,1.13,4.34
+9/26/2024,2024Q3,1753,Apartment,regular_sale,1910,3100000,0,3,68,45588.234,"Piledamsvej 32, st",6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+9/26/2024,2024Q3,1723,Villa,regular_sale,1850,1130000,-6,5,115,9826.087,Havvej 12,8420,Knebel,East & mid jutland,Jutland,3.35,1.13,4.34
+9/26/2024,2024Q3,1752,Villa,regular_sale,1970,3750000,-1,6,215,17441.861,Møllebakken 1,5500,Middelfart,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/25/2024,2024Q3,1824,Villa,regular_sale,2001,3600000,-3,3,150,24000,Solsikkevej 5,3390,Hundested,North Zealand,Zealand,3.35,1.13,4.34
+9/25/2024,2024Q3,1777,Villa,regular_sale,1918,2000000,-5,4,151,13245.033,Smedegade 6,3390,Hundested,North Zealand,Zealand,3.35,1.13,4.34
+9/25/2024,2024Q3,1830,Villa,regular_sale,1970,1450000,-3,4,110,13181.818,Toftevej 4,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+9/25/2024,2024Q3,1859,Villa,regular_sale,1962,3100000,-3,4,102,30392.156,Gadeledsvej 43,3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+9/25/2024,2024Q3,1878,Villa,regular_sale,1970,1895000,0,5,126,15039.683,Lisas AllÃ© 2,5250,Odense SV,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/25/2024,2024Q3,1774,Apartment,regular_sale,1977,2500000,0,4,117,21367.521,"Svalegårdsvej 35, st. th",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+9/25/2024,2024Q3,1889,Summerhouse,regular_sale,2005,1150000,-11,4,106,10849.057,Hou Mose 19,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+9/25/2024,2024Q3,1863,Villa,regular_sale,1930,1000000,0,6,173,5780.3467,Aland Bro Vej 5,7752,Snedsted,South jutland,Jutland,3.35,1.13,4.34
+9/24/2024,2024Q3,1983,Summerhouse,regular_sale,1956,1100000,0,1,35,31428.572,Præstelunden 17,3550,Slangerup,North Zealand,Zealand,3.35,1.13,4.34
+9/24/2024,2024Q3,1966,Villa,family_sale,1947,525000,0,2,73,7191.781,Skovvej 45,4990,Sakskøbing,Other islands,Zealand,3.35,1.13,4.34
+9/24/2024,2024Q3,2022,Villa,other_sale,1992,1100000,0,5,182,6043.956,Sverrigsvej 5C,7130,Juelsminde,South jutland,Jutland,3.35,1.13,4.34
+9/24/2024,2024Q3,1964,Villa,regular_sale,1927,875000,-12,5,125,7000,Sønder Klitvej 252,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+9/24/2024,2024Q3,1944,Villa,regular_sale,1929,1720000,-8,3,118,14576.271,Søndermarksvej 19,4760,Vordingborg,Other islands,Zealand,3.35,1.13,4.34
+9/24/2024,2024Q3,2021,Summerhouse,regular_sale,1974,1125000,-17,3,62,18145.162,Brislingevej 7,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+9/24/2024,2024Q3,2073,Villa,regular_sale,2023,2425000,-1,4,130,18653.846,Henriksvang 6,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/24/2024,2024Q3,2058,Villa,regular_sale,1800,515000,6,5,104,4951.923,Maglehøjvej 213,4983,Dannemare,Other islands,Zealand,3.35,1.13,4.34
+9/24/2024,2024Q3,2099,Villa,regular_sale,1939,2000000,-5,5,114,17543.86,Gl. Skivevej 22,8800,Viborg,East & mid jutland,Jutland,3.35,1.13,4.34
+9/24/2024,2024Q3,2056,Apartment,regular_sale,1917,3775000,0,2,83,45481.926,"Store Gråbrødrestræde 6, st",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+9/24/2024,2024Q3,2081,Farm,regular_sale,1930,3200000,-1,5,204,15686.274,Sahlholdtvej 27,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+9/23/2024,2024Q3,2102,Villa,regular_sale,1959,1550000,0,5,164,9451.22,Tjørnelundsvej 26,8930,Randers NA,East & mid jutland,Jutland,3.35,1.13,4.34
+9/23/2024,2024Q3,2140,Villa,regular_sale,1965,1625000,-8,4,90,18055.555,Vroldvej 142,8660,Skanderborg,East & mid jutland,Jutland,3.35,1.13,4.34
+9/23/2024,2024Q3,2139,Apartment,regular_sale,1893,1500000,-12,4,150,10000,"Vestergade 3B, 1",9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+9/23/2024,2024Q3,40319,Villa,regular_sale,1958,6800000,-3,5,98,69387.76,Hummeltoften 20,2830,Virum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/23/2024,2024Q3,40352,Townhouse,regular_sale,2023,2820000,0,4,102,27647.059,Jernvænget 45,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+9/23/2024,2024Q3,40342,Townhouse,regular_sale,1987,1050000,0,3,80,13125,Møllevangen 32,9320,Hjallerup,North jutland,Jutland,3.35,1.13,4.34
+9/23/2024,2024Q3,2128,Villa,regular_sale,1949,3035000,1,4,120,25291.666,Spangsvej 68,5210,Odense NV,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/23/2024,2024Q3,2135,Villa,regular_sale,1960,1650000,0,7,272,6066.1763,Astre Havnevej 21,4583,Sjællands Odde,Other islands,Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40508,Apartment,regular_sale,1933,3025000,0,2,57,53070.176,"Sorgenfrigade 6, st. tv",2200,København N,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40394,Villa,regular_sale,1893,2800000,-12,4,144,19444.445,Skydebanevej 7,4780,Stege,Other islands,Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40495,Villa,regular_sale,1959,3030000,-2,4,103,29417.477,Rundvangen 26,2605,Brøndby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40407,Villa,regular_sale,1972,5250000,0,5,168,31250,Elmsager 32,8240,Risskov,East & mid jutland,Jutland,3.35,1.13,4.34
+9/22/2024,2024Q3,40505,Apartment,regular_sale,1957,2249000,0,2,51,44098.04,"Dybendalsvej 73, st. mf",2720,Vanløse,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40412,Villa,regular_sale,1948,4900000,-2,6,148,33108.11,Rytterstien 10,3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40474,Villa,regular_sale,1960,640000,-19,3,102,6274.51,Algade 155,9700,Brønderslev,North jutland,Jutland,3.35,1.13,4.34
+9/22/2024,2024Q3,40496,Farm,family_sale,1878,1602000,0,4,140,11442.857,Hostrupvej 11,6710,Esbjerg V,South jutland,Jutland,3.35,1.13,4.34
+9/22/2024,2024Q3,40537,Summerhouse,regular_sale,1955,1400000,0,2,41,34146.34,Sneppevej 5,4873,Væggerløse,Other islands,Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40440,Villa,regular_sale,1958,5325000,-3,5,107,49766.355,Medelbyvej 57,2610,Rødovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40468,Villa,regular_sale,1930,1550000,-7,6,97,15979.382,Bøjdenvej 24,5800,Nyborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/22/2024,2024Q3,40444,Apartment,regular_sale,1778,10000000,0,6,200,50000,"Lille Strandstræde 12, 2",1254,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40432,Villa,regular_sale,1935,4600000,-4,8,169,27218.936,Svendsgade 19,5000,Odense C,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/22/2024,2024Q3,40395,Summerhouse,regular_sale,1933,2405000,0,2,41,58658.535,Gammel Strandvej 87,4243,Rude,Other islands,Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40461,Summerhouse,family_sale,1999,699000,0,3,102,6852.9414,Rørvænget 2,6900,Skjern,South jutland,Jutland,3.35,1.13,4.34
+9/22/2024,2024Q3,40494,Townhouse,regular_sale,1987,1650000,0,3,92,17934.783,Benløse Skel 4I,4100,Ringsted,Other islands,Zealand,3.35,1.13,4.34
+9/22/2024,2024Q3,40429,Villa,regular_sale,1952,1500000,0,6,189,7936.508,Jagtvej 1,7200,Grindsted,South jutland,Jutland,3.35,1.13,4.34
+9/22/2024,2024Q3,40392,Summerhouse,regular_sale,1989,1210000,-4,5,93,13010.753,Tyttebærstien 23,9690,Fjerritslev,North jutland,Jutland,3.35,1.13,4.34
+9/21/2024,2024Q3,40566,Summerhouse,regular_sale,1972,1520000,-5,5,101,15049.505,Leopardvej 15,6880,Tarm,South jutland,Jutland,3.35,1.13,4.34
+9/20/2024,2024Q3,40632,Villa,regular_sale,1959,7300000,-1,6,148,49324.324,Jægersborgvej 56B,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/20/2024,2024Q3,40633,Townhouse,regular_sale,2017,2995000,0,3,106,28254.717,Græsgangen 11,4100,Ringsted,Other islands,Zealand,3.35,1.13,4.34
+9/19/2024,2024Q3,40743,Villa,regular_sale,1575,1065000,-11,5,162,6574.074,Søndergade 11,6270,Tønder,South jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40644,Villa,regular_sale,1903,550000,0,5,110,5000,Ãstruplundvej 15,8740,Brædstrup,East & mid jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40763,Townhouse,regular_sale,1987,3250000,-1,4,127,25590.55,Holme Parkvej 20,8270,Højbjerg,East & mid jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40674,Villa,regular_sale,1956,4395000,0,5,118,37245.76,Ãgerupvej 194,2750,Ballerup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/19/2024,2024Q3,40770,Farm,regular_sale,1930,1430000,0,4,207,6908.2124,Nordskovvej 38,6100,Haderslev,South jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40738,Townhouse,regular_sale,1976,3450000,0,4,123,28048.781,Arvadsvej 2,8220,Brabrand,East & mid jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40803,Apartment,regular_sale,1910,5300000,0,3,99,53535.355,"Nyboesgade 81, 3",7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40657,Villa,regular_sale,1976,1775000,-4,8,172,10319.768,Vindelevgård 99,7830,Vinderup,South jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40760,Villa,regular_sale,1999,3035000,-7,6,151,20099.338,Lavendelvej 20,6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+9/19/2024,2024Q3,40824,Apartment,regular_sale,1853,4175000,0,3,58,71982.76,"Valkendorfsgade 9, st. tv",1151,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40960,Townhouse,regular_sale,1987,1595000,0,3,77,20714.285,Kirsebærhaven 47,4632,Bjæverskov,Other islands,Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40991,Apartment,regular_sale,2020,6100000,0,5,109,55963.305,"Cylindervej 17, 1. mf",2450,København SV,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40851,Villa,regular_sale,1996,5150000,-4,5,166,31024.096,Folebjerggårdsvej 16,3540,Lynge,North Zealand,Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40915,Apartment,regular_sale,1920,1660000,0,3,69,24057.97,"Skjoldsvej 4, st. th",7480,Vildbjerg,South jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40992,Villa,regular_sale,2011,3275000,0,6,180,18194.445,Blæsenborg Alle 22,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40989,Townhouse,regular_sale,2017,2935000,-2,3,100,29350,Sølykken 15,8530,Hjortshøj,East & mid jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40874,Villa,regular_sale,1965,3275000,0,4,111,29504.504,Kirkeholmen 5,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40834,Villa,regular_sale,1977,3600000,-4,6,204,17647.059,Kildevænget 1,3320,Skævinge,North Zealand,Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40984,Villa,regular_sale,1966,1630000,-18,5,170,9588.235,LÃ¼tzensvej 16,4220,Korsør,Other islands,Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40998,Apartment,regular_sale,1910,812500,0,2,64,12695.3125,"Sundvej 6A, 2",8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40870,Villa,regular_sale,1902,498000,0,3,134,3716.418,Birkevej 2,9550,Mariager,North jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40865,Villa,regular_sale,1917,1675000,0,5,151,11092.715,Burgårdevej 30,8654,Bryrup,East & mid jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40859,Apartment,regular_sale,1965,1950000,0,4,94,20744.682,"Snerlevej 58, 2. tv",3000,Helsingør,North Zealand,Zealand,3.35,1.13,4.34
+9/18/2024,2024Q3,40901,Summerhouse,regular_sale,2018,4515000,0,4,118,38262.71,Neptunvej 4B,6720,Fanø,South jutland,Jutland,3.35,1.13,4.34
+9/18/2024,2024Q3,40899,Villa,regular_sale,1964,3100000,-3,6,158,19620.254,Lyngmosen 33,2640,Hedehusene,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/17/2024,2024Q3,41222,Villa,regular_sale,1960,450000,0,4,116,3879.3103,Peder Rimmensgade 30,9850,Hirtshals,North jutland,Jutland,3.35,1.13,4.34
+9/17/2024,2024Q3,41059,Summerhouse,regular_sale,1982,1300000,-18,4,81,16049.383,Parasolhatten 14,9260,Gistrup,North jutland,Jutland,3.35,1.13,4.34
+9/17/2024,2024Q3,41111,Townhouse,regular_sale,1910,500000,0,4,100,5000,Klingenbergsgade 6,7900,Nykøbing M,South jutland,Jutland,3.35,1.13,4.34
+9/17/2024,2024Q3,41202,Summerhouse,family_sale,1974,1325000,0,5,66,20075.758,Engbjerget 20,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+9/17/2024,2024Q3,41072,Apartment,regular_sale,1964,505000,-4,1,68,7426.4707,"Parkvej 10, 1. tv",4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+9/17/2024,2024Q3,41037,Summerhouse,regular_sale,2000,1676250,3,3,84,19955.357,Tyttebærstien 54,9690,Fjerritslev,North jutland,Jutland,3.35,1.13,4.34
+9/17/2024,2024Q3,41123,Farm,regular_sale,1877,8000000,0,8,160,50000,Søbjergvej 10,4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+9/16/2024,2024Q3,41376,Villa,regular_sale,1973,1050000,-13,4,149,7046.98,Magnoliavænget 9,7000,Fredericia,South jutland,Jutland,3.35,1.13,4.34
+9/16/2024,2024Q3,41385,Apartment,regular_sale,2005,3350000,-4,3,108,31018.518,"Stuhrs Brygge 19, 1. th",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+9/16/2024,2024Q3,41283,Townhouse,regular_sale,1961,440000,-11,3,80,5500,Kastanievej 37,9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+9/16/2024,2024Q3,41263,Villa,regular_sale,1960,1600000,-16,4,104,15384.615,Mindegade 42,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+9/16/2024,2024Q3,41389,Villa,regular_sale,1963,2350000,-6,7,177,13276.836,Fårupvej 42,8471,Sabro,East & mid jutland,Jutland,3.35,1.13,4.34
+9/16/2024,2024Q3,41245,Villa,regular_sale,1977,2295000,0,4,146,15719.178,Mårvænget 3,6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+9/16/2024,2024Q3,41299,Villa,regular_sale,1912,275000,-30,5,141,1950.3546,Horslundevej 13,4900,Nakskov,Other islands,Zealand,3.35,1.13,4.34
+9/16/2024,2024Q3,41428,Apartment,regular_sale,1957,1700000,0,1,48,35416.668,"Skelhøjvej 25A, st. tv",2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/16/2024,2024Q3,41390,Apartment,regular_sale,1939,975000,0,1,30,32500,"Tåsingegade 14, 1. 2",8200,Aarhus N,East & mid jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41442,Villa,regular_sale,1991,450000,0,3,130,3461.5386,Bjergvej 5,4840,Nørre Alslev,Other islands,Zealand,3.35,1.13,4.34
+9/15/2024,2024Q3,41617,Townhouse,regular_sale,2004,1520000,0,3,73,20821.918,Langørvej 21,8381,Tilst,East & mid jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41543,Villa,regular_sale,1915,4000000,0,3,95,42105.26,Strandvejen 7,5960,Marstal,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/15/2024,2024Q3,41627,Villa,regular_sale,2022,2425000,-5,4,120,20208.334,Vestergade 343,6792,Rømø,South jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41569,Summerhouse,regular_sale,1830,800000,-20,3,85,9411.765,Lergravvej 26,4760,Vordingborg,Other islands,Zealand,3.35,1.13,4.34
+9/15/2024,2024Q3,41511,Villa,regular_sale,1973,1145000,-4,5,130,8807.692,Westbanke 41,9990,Skagen,North jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41472,Villa,regular_sale,1942,550000,0,6,152,3618.4211,Bølling Skovvej 17,6064,Jordrup,South jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41451,Summerhouse,regular_sale,1971,900000,-5,3,67,13432.836,Plantagevej 18,8410,Rønde,East & mid jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41562,Summerhouse,regular_sale,2001,1995000,-5,4,95,21000,Polderrevsvej 11,8500,Grenaa,East & mid jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41621,Apartment,regular_sale,1911,2540000,-4,3,97,26185.566,"Prinsensgade 31, 4. th",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41504,Villa,regular_sale,1986,1695000,0,5,158,10727.848,Grønvangen 4,7323,Give,South jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41565,Summerhouse,family_sale,1952,705000,0,3,37,19054.055,Klitten 38,8500,Grenaa,East & mid jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41460,Summerhouse,regular_sale,1976,900000,-10,4,114,7894.737,Majasvej 2,9670,Løgstør,North jutland,Jutland,3.35,1.13,4.34
+9/15/2024,2024Q3,41541,Summerhouse,regular_sale,1976,920000,-8,3,70,13142.857,Træløbervej 10,5953,Tranekær,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/14/2024,2024Q3,41672,Villa,regular_sale,1953,1000000,0,2,80,12500,Syrenvej 12,8870,Langå,East & mid jutland,Jutland,3.35,1.13,4.34
+9/14/2024,2024Q3,41695,Apartment,regular_sale,1900,1950000,0,6,185,10540.541,Odensevej 19B,5690,Tommerup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/14/2024,2024Q3,41674,Villa,regular_sale,1922,1195000,0,5,111,10765.766,Baldersvej 6,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+9/14/2024,2024Q3,41657,Summerhouse,family_sale,1980,1208800,0,4,76,15905.263,Solsortevej 14,3120,Dronningmølle,North Zealand,Zealand,3.35,1.13,4.34
+9/14/2024,2024Q3,41692,Townhouse,regular_sale,1920,2825000,-6,4,105,26904.762,Astre Alle 23,9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+9/14/2024,2024Q3,41650,Villa,regular_sale,1897,550000,0,3,80,6875,Landevejen 61,4684,Holmegaard,Other islands,Zealand,3.35,1.13,4.34
+9/14/2024,2024Q3,41673,Summerhouse,regular_sale,2003,3995000,0,4,129,30968.992,Kjærgaardvej 141,6990,Ulfborg,South jutland,Jutland,3.35,1.13,4.34
+9/13/2024,2024Q3,41706,Apartment,regular_sale,1989,1575000,0,3,89,17696.629,Jernkilde 20,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+9/13/2024,2024Q3,41709,Villa,regular_sale,1985,1850000,-2,7,216,8564.814,Tranevænget 97,6830,Nørre Nebel,South jutland,Jutland,3.35,1.13,4.34
+9/13/2024,2024Q3,41724,Villa,regular_sale,1982,1250000,-10,5,134,9328.358,Saxildsalle 26,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41887,Villa,regular_sale,1972,1350000,-7,6,180,7500,Solhøj 7,8961,Allingåbro,East & mid jutland,Jutland,3.35,1.13,4.34
+9/12/2024,2024Q3,41749,Villa,regular_sale,1912,1700000,0,4,94,18085.105,Lodderne 10,4330,Hvalsø,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41928,Villa,regular_sale,1958,900000,-5,5,138,6521.7393,Hovedgaden 67,6360,Tinglev,South jutland,Jutland,3.35,1.13,4.34
+9/12/2024,2024Q3,41764,Summerhouse,regular_sale,1984,710000,-11,5,46,15434.782,Granlodden 2B,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41810,Summerhouse,regular_sale,1972,800000,-11,4,130,6153.846,Kløvervænget 33,4571,Grevinge,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41921,Villa,regular_sale,1978,1600000,-11,4,124,12903.226,Sikavej 57,4050,Skibby,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41938,Villa,regular_sale,1977,1700000,-5,7,166,10240.964,Gedhøjen 7,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+9/12/2024,2024Q3,41818,Townhouse,regular_sale,1983,900000,0,3,74,12162.162,Dybbølvej 5B,7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+9/12/2024,2024Q3,41895,Townhouse,regular_sale,1980,3925000,-2,4,125,31400,Bringebakken 82,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41752,Villa,regular_sale,1953,500000,0,3,95,5263.1577,Kirkevej 15,5672,Broby,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/12/2024,2024Q3,41918,Villa,regular_sale,1980,760000,-4,4,94,8085.1064,Karlstoftevænget 83,4970,Rødby,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41823,Summerhouse,regular_sale,2000,1875000,0,4,66,28409.092,Højlandet 21,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+9/12/2024,2024Q3,41841,Summerhouse,other_sale,1986,932000,0,4,74,12594.595,Tangsnarrevej 2,4583,Sjællands Odde,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41931,Apartment,regular_sale,1963,2225000,-9,3,77,28896.104,"Bybjergvej 19, 1. tv",2970,Hørsholm,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41870,Summerhouse,regular_sale,1961,820000,-3,2,81,10123.457,Saltbæklund 1,4400,Kalundborg,Other islands,Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41907,Apartment,regular_sale,2017,4225000,0,3,84,50297.617,"Axel Strøbyes Vej 15, 3. th",2500,Valby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/12/2024,2024Q3,41751,Villa,regular_sale,1959,1495000,0,6,190,7868.421,Stadion Alle 9,6621,Gesten,South jutland,Jutland,3.35,1.13,4.34
+9/12/2024,2024Q3,41747,Apartment,regular_sale,1944,4700000,1,2,76,61842.105,"Aksel Møllers Have 16, 2. th",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,42110,Villa,regular_sale,2015,2900000,-3,6,158,18354.43,Bakkegårds AllÃ© 55,5550,Langeskov,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/11/2024,2024Q3,42057,Villa,regular_sale,1968,2925000,-2,4,157,18630.574,Helgesvej 4,3080,Tikøb,North Zealand,Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,42002,Summerhouse,regular_sale,1986,2000000,0,3,56,35714.285,Evasvej 7,9480,Løkken,North jutland,Jutland,3.35,1.13,4.34
+9/11/2024,2024Q3,42034,Townhouse,regular_sale,1978,1475000,0,4,92,16032.608,Hjortevænget 53,5800,Nyborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/11/2024,2024Q3,42086,Villa,regular_sale,1956,2030000,-2,5,126,16111.111,Holmstrupvej 14,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,42024,Summerhouse,regular_sale,1973,2500000,0,3,76,32894.74,Krebsevej 52,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+9/11/2024,2024Q3,41975,Villa,regular_sale,1985,1900000,0,5,113,16814.16,Hornshøjparken 163,7500,Holstebro,South jutland,Jutland,3.35,1.13,4.34
+9/11/2024,2024Q3,42094,Villa,regular_sale,1966,1325000,-5,2,100,13250,Nyvej 1,5690,Tommerup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/11/2024,2024Q3,42116,Villa,regular_sale,2020,312500,0,2,63,4960.3174,Lucernevej 1,4653,Karise,Other islands,Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,42144,Summerhouse,regular_sale,1973,1075000,-10,4,112,9598.214,Bugten 4,6840,Oksbøl,South jutland,Jutland,3.35,1.13,4.34
+9/11/2024,2024Q3,42074,Apartment,regular_sale,1904,5150000,0,3,75,68666.664,"Lykkesholms AllÃ© 7B, 1. th",1902,Frederiksberg C,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,41956,Apartment,regular_sale,1972,1350000,0,2,71,19014.084,"Fredskovhellet 2G, st. 7",3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,41953,Villa,regular_sale,1966,2070000,-1,4,110,18818.182,Præstemarksvej 13,4070,Kirke Hyllinge,Other islands,Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,42015,Townhouse,regular_sale,1985,2050000,-6,3,70,29285.715,Egebakken 17,3600,Frederikssund,North Zealand,Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,41982,Apartment,regular_sale,1974,2260000,0,3,103,21941.748,"Vejledalen 64, st. th",2635,Ishøj,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/11/2024,2024Q3,42022,Villa,regular_sale,1913,1685000,0,5,140,12035.714,Arnevej 15,9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42186,Townhouse,regular_sale,1990,1225000,-5,2,63,19444.445,Vesterled 14,4690,Haslev,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42169,Apartment,regular_sale,1972,3105000,0,2,65,47769.23,"Roskildevej 53, 6. 605",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42269,Summerhouse,regular_sale,1972,1770000,-4,4,70,25285.715,Hyttestien 3,6854,Henne,South jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42191,Villa,regular_sale,1958,2700000,-4,5,126,21428.572,Peder Gydes Vej 47,6700,Esbjerg,South jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42206,Villa,family_sale,1964,1305000,0,4,92,14184.782,Færgegårdsvej 37,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/10/2024,2024Q3,42329,Townhouse,regular_sale,2011,1400000,0,3,85,16470.588,Lyngkrogen 12,4450,Jyderup,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42282,Farm,regular_sale,1928,500000,0,4,150,3333.3333,Tralskovvej 5,6200,Aabenraa,South jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42176,Apartment,regular_sale,1906,1700000,0,2,45,37777.777,"Godthåbs Alle 16, 1. tv",4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42157,Apartment,regular_sale,1966,2213889,0,2,58,38170.5,"Næsborgvej 18, 2. tv",2650,Hvidovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42284,Villa,regular_sale,1977,1350000,-3,5,158,8544.304,Hjortevej 2,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42227,Villa,regular_sale,1966,1975000,-1,4,112,17633.928,J P Jakobsens Vej 29,7430,Ikast,South jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42220,Apartment,regular_sale,1972,1390000,0,2,71,19577.465,"Fredskovhellet 2H, 2. 60",3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42209,Apartment,regular_sale,1900,930000,0,3,92,10108.695,"Banevej 10, st",4296,Nyrup,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42190,Townhouse,regular_sale,1987,1695000,-6,4,93,18225.807,Anderuplunden 56,5270,Odense N,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/10/2024,2024Q3,42276,Villa,regular_sale,1962,525000,0,4,95,5526.316,Nørrebro 185,5900,Rudkøbing,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/10/2024,2024Q3,42289,Villa,regular_sale,1965,1295000,0,5,124,10443.549,Frederiksmindevej 22,4640,Faxe,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42236,Apartment,regular_sale,1911,2395000,0,2,58,41293.1,"Fåborggade 12, 2. th",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42182,Villa,regular_sale,1942,415000,-17,5,85,4882.353,Arevadbrovej 46,8632,Lemming,East & mid jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42310,Villa,regular_sale,1972,1800000,-5,5,138,13043.479,Månebakken 9,4400,Kalundborg,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42332,Townhouse,regular_sale,2018,2995000,0,3,84,35654.76,Kongelysvej 19,2640,Hedehusene,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42372,Apartment,regular_sale,2006,8750000,0,4,152,57565.79,"Weidekampsgade 65, 5. tv",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42265,Apartment,regular_sale,1972,2525000,0,3,99,25505.05,"Elmelyparken 7C, 1. th",2680,Solrød Strand,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42293,Villa,regular_sale,1958,2295000,-4,5,109,21055.045,Gustav Holms Vej 12,9210,Aalborg SA,North jutland,Jutland,3.35,1.13,4.34
+9/10/2024,2024Q3,42242,Villa,regular_sale,1923,2695000,0,9,233,11566.523,Havnskovvej 24,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+9/10/2024,2024Q3,42205,Apartment,other_sale,1936,2020000,0,2,71,28450.705,Stationsvej 90E,5792,Ãrslev,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/9/2024,2024Q3,42508,Farm,regular_sale,1942,1250000,-14,12,286,4370.6294,Auningvej 60,8963,Auning,East & mid jutland,Jutland,3.35,1.13,4.34
+9/9/2024,2024Q3,42475,Apartment,regular_sale,1933,6300000,-3,3,94,67021.27,"Strandvejen 429, st. th",2930,Klampenborg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/9/2024,2024Q3,42417,Villa,regular_sale,1900,850000,-8,6,106,8018.868,MÃ¼llersvej 6,4780,Stege,Other islands,Zealand,3.35,1.13,4.34
+9/9/2024,2024Q3,42387,Villa,regular_sale,1980,1250000,-16,5,96,13020.833,Højbjergvej 44,6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+9/9/2024,2024Q3,42535,Townhouse,regular_sale,1977,1820000,-9,4,120,15166.667,Hasselvej 33,9530,Støvring,North jutland,Jutland,3.35,1.13,4.34
+9/9/2024,2024Q3,42423,Villa,regular_sale,1967,1405000,1,5,119,11806.723,Bodilsvej 10C,7000,Fredericia,South jutland,Jutland,3.35,1.13,4.34
+9/9/2024,2024Q3,42445,Apartment,regular_sale,1959,2425000,0,2,76,31907.895,"Dalstrøget 100, 3",2870,Dyssegård,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/9/2024,2024Q3,42426,Villa,regular_sale,1880,2825000,-6,5,169,16715.977,Løkkegravene 138B,5270,Odense N,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/9/2024,2024Q3,42478,Apartment,regular_sale,1980,2600000,0,4,112,23214.285,"Blommevangen 11, 2. tv",2765,Smørum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/8/2024,2024Q3,86963,Villa,family_sale,1918,370000,0,4,137,2700.73,Stenskrogvej 19,9830,Tårs,North jutland,Jutland,3.35,1.13,4.34
+9/8/2024,2024Q3,42621,Villa,regular_sale,1977,1575000,0,5,159,9905.66,Rosenvænget 30,4880,Nysted,Other islands,Zealand,3.35,1.13,4.34
+9/8/2024,2024Q3,86899,Apartment,regular_sale,1975,2375000,0,1,60,39583.332,"Heimdalsgade 44, 1. tv",2200,København N,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/8/2024,2024Q3,86919,Villa,regular_sale,1974,970000,-3,4,117,8290.599,Hasselvej 7,6971,Spjald,South jutland,Jutland,3.35,1.13,4.34
+9/8/2024,2024Q3,86909,Villa,regular_sale,1957,4520000,-6,5,171,26432.748,Munkholmvej 121,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+9/8/2024,2024Q3,42611,Townhouse,regular_sale,2004,1650000,-5,4,101,16336.634,Bragesvej 43,6100,Haderslev,South jutland,Jutland,3.35,1.13,4.34
+9/8/2024,2024Q3,86973,Villa,regular_sale,2003,2395000,-4,5,129,18565.89,Dahliavej 6,4420,Regstrup,Other islands,Zealand,3.35,1.13,4.34
+9/8/2024,2024Q3,86969,Villa,regular_sale,1952,575000,-3,3,172,3343.0232,Legindvej 16,7752,Snedsted,South jutland,Jutland,3.35,1.13,4.34
+9/8/2024,2024Q3,86901,Townhouse,regular_sale,1962,4155000,4,4,123,33780.49,Jønhøjvej 13,8230,Ãbyhøj,East & mid jutland,Jutland,3.35,1.13,4.34
+9/8/2024,2024Q3,86905,Apartment,regular_sale,1966,2100000,0,4,89,23595.506,"Humlemarken 4, 2. th",3060,Espergærde,North Zealand,Zealand,3.35,1.13,4.34
+9/7/2024,2024Q3,87011,Summerhouse,regular_sale,1979,1350000,-3,4,69,19565.217,Havrevangen 5,3310,Alsted,North Zealand,Zealand,3.35,1.13,4.34
+9/7/2024,2024Q3,87025,Villa,regular_sale,1951,1100000,5,4,109,10091.743,Jernbanegade 37,6580,Vamdrup,South jutland,Jutland,3.35,1.13,4.34
+9/7/2024,2024Q3,87022,Summerhouse,regular_sale,1968,695000,-13,3,63,11031.746,Brøndbækken 115,9560,Hadsund,North jutland,Jutland,3.35,1.13,4.34
+9/7/2024,2024Q3,87032,Apartment,regular_sale,1940,3015000,0,2,56,53839.285,"Ãlandsgade 22, 2. th",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/7/2024,2024Q3,87007,Villa,regular_sale,1821,2700000,-4,8,182,14835.165,Nørregade 8,3700,Rønne,Bornholm,Bornholm,3.35,1.13,4.34
+9/7/2024,2024Q3,87040,Summerhouse,regular_sale,1968,900000,0,3,61,14754.099,Gloryvej 16,7673,Harboøre,South jutland,Jutland,3.35,1.13,4.34
+9/6/2024,2024Q3,87076,Villa,regular_sale,1727,825000,-8,2,88,9375,Vemmenæsvej 26,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/6/2024,2024Q3,87094,Villa,regular_sale,1968,2100000,-9,5,127,16535.434,Højgårdsvej 27,8362,Hørning,East & mid jutland,Jutland,3.35,1.13,4.34
+9/6/2024,2024Q3,87107,Summerhouse,regular_sale,2018,3375000,-3,4,112,30133.928,Tingodden 311,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+9/6/2024,2024Q3,87055,Summerhouse,regular_sale,1981,925000,-7,4,79,11708.86,Bekkasinvej 16,9982,Ãlbæk,North jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87315,Townhouse,regular_sale,1889,440000,-12,2,83,5301.2046,Vantorevej 97B,4880,Nysted,Other islands,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87300,Apartment,regular_sale,2023,6305000,0,3,98,64336.734,"Astergade 106B, 2",8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87247,Apartment,regular_sale,1898,4723500,0,3,88,53676.137,"Godthåbsvej 61B, 3. th",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87273,Villa,regular_sale,1952,498000,0,3,87,5724.1377,Roagervej 263,6760,Ribe,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87206,Apartment,regular_sale,1972,1250000,0,2,49,25510.203,"Topperne 26, 1. 14",2620,Albertslund,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87297,Villa,regular_sale,2021,4200000,-5,5,181,23204.42,Pallasvej 99,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87328,Summerhouse,regular_sale,1973,2925000,10,3,52,56250,Thujavej 21,3300,Frederiksværk,North Zealand,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87116,Apartment,regular_sale,1970,2150000,0,3,82,26219.512,"Gl. Holmegårdsvej 29, 2. tv",3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87245,Farm,regular_sale,1932,2350000,0,4,144,16319.444,Skuderløsevej 27,4690,Haslev,Other islands,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87182,Summerhouse,regular_sale,1971,1825000,-4,4,89,20505.617,Solbakken 13,5400,Bogense,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/5/2024,2024Q3,87253,Apartment,regular_sale,1918,500000,0,2,60,8333.333,"Fuglebæks Alle 7, st",4400,Kalundborg,Other islands,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87269,Villa,regular_sale,1966,2975000,-1,4,106,28066.037,Kildemosevej 16,4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87152,Apartment,regular_sale,1915,1650000,0,2,64,25781.25,"Kirkegade 19C, st. th",7600,Struer,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87198,Apartment,regular_sale,1973,745000,0,2,59,12627.118,"Ãbleparken 92, st",5270,Odense N,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/5/2024,2024Q3,87255,Summerhouse,regular_sale,2002,2185000,-9,6,120,18208.334,Esebjergvej 79,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87168,Townhouse,regular_sale,1983,825000,0,3,60,13750,Bachsvej 36A,7500,Holstebro,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87263,Villa,family_sale,1965,350000,0,4,125,2800,Ringvejen 81,9850,Hirtshals,North jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87326,Summerhouse,regular_sale,1972,1625000,-4,3,65,25000,Hvedevænget 15,3230,Græsted,North Zealand,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87138,Townhouse,regular_sale,2001,890000,0,2,66,13484.849,Nørregade 11B,6753,Agerbæk,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87336,Villa,regular_sale,2007,2995000,0,6,198,15126.263,Strynøvænget 52,6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87151,Townhouse,regular_sale,1980,2800000,-7,4,126,22222.223,Kildebo 40,4622,Havdrup,Other islands,Zealand,3.35,1.13,4.34
+9/5/2024,2024Q3,87195,Villa,regular_sale,1967,825000,0,4,100,8250,Hedegårdsvej 5,8300,Odder,East & mid jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87129,Villa,regular_sale,1963,848000,0,5,160,5300,Elmevang 1,9300,Sæby,North jutland,Jutland,3.35,1.13,4.34
+9/5/2024,2024Q3,87225,Apartment,regular_sale,1935,900000,0,2,43,20930.232,"Gedservej 74, 2",4800,Nykøbing F,Other islands,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87441,Villa,regular_sale,1952,975000,-11,3,101,9653.466,Malmose 2,5540,Ullerslev,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/4/2024,2024Q3,87397,Villa,regular_sale,1929,2223000,-3,5,138,16108.695,Risdalsvej 33,8260,Viby J,East & mid jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87537,Summerhouse,family_sale,1966,1088000,0,2,104,10461.538,Vennelystvej 8,5450,Otterup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/4/2024,2024Q3,87547,Summerhouse,regular_sale,2022,2650000,-5,4,86,30813.953,Skovbuen 24,4583,Sjællands Odde,Other islands,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87437,Villa,regular_sale,1973,1200000,0,4,111,10810.811,Kastanievej 10,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87463,Summerhouse,regular_sale,1974,1195000,0,4,77,15519.48,Ferskenvej 8,4760,Vordingborg,Other islands,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87468,Villa,regular_sale,1971,1595000,0,5,167,9550.898,Rylen 3,6300,Gråsten,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87385,Apartment,regular_sale,1978,3700000,0,2,66,56060.605,"Tuborgvej 17, st. 2",2900,Hellerup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87389,Summerhouse,family_sale,1984,2381600,0,4,112,21264.285,Natskyggevej 12,3390,Hundested,North Zealand,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87358,Apartment,regular_sale,1900,960000,0,3,96,10000,"Strandvejen 21, 1. tv",7600,Struer,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87341,Apartment,family_sale,2001,892500,0,3,94,9494.681,"Kongebrogade 23, 1. tv",6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87470,Summerhouse,regular_sale,1988,990000,0,3,52,19038.46,Solager 2,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87372,Villa,regular_sale,1966,400000,0,4,114,3508.772,Floravej 11,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87476,Villa,regular_sale,1927,3500000,-9,5,138,25362.318,Græsted Hovedgade 51,3230,Græsted,North Zealand,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87361,Villa,regular_sale,2009,850000,-10,3,126,6746.0317,Lemvigvej 61,7620,Lemvig,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87497,Villa,regular_sale,1900,400000,-33,5,128,3125,Kelstrupvej 1,4560,Vig,Other islands,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87380,Farm,regular_sale,1932,4800000,0,5,100,48000,St Nørlundvej 8,7361,Ejstrupholm,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87467,Summerhouse,regular_sale,2003,1500000,-6,4,99,15151.516,Strandgårdsvej 189,5464,Brenderup Fyn,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/4/2024,2024Q3,87379,Farm,regular_sale,1877,715000,0,5,157,4554.14,Hellevej 17,6753,Agerbæk,South jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87496,Apartment,regular_sale,1979,1465000,0,3,90,16277.777,"Kragholmen 212, 2. th",9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87513,Townhouse,regular_sale,2018,2545000,0,4,101,25198.02,Stenøvej 14,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+9/4/2024,2024Q3,87343,Townhouse,regular_sale,1904,325000,0,3,107,3037.383,Sønderport 28,9670,Løgstør,North jutland,Jutland,3.35,1.13,4.34
+9/4/2024,2024Q3,87405,Apartment,regular_sale,1936,2595000,0,2,52,49903.848,"Offenbachsvej 23, st. th",2450,København SV,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87626,Townhouse,regular_sale,1920,548000,0,4,65,8430.77,Krogen 5,8300,Odder,East & mid jutland,Jutland,3.35,1.13,4.34
+9/3/2024,2024Q3,87675,Farm,regular_sale,1925,1675000,-7,6,112,14955.357,Rødemøllevej 48,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+9/3/2024,2024Q3,87593,Summerhouse,regular_sale,1974,900000,-10,5,85,10588.235,Pilehegnet 4,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87664,Villa,regular_sale,1973,2050000,0,4,140,14642.857,Hybenvænget 6,5500,Middelfart,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/3/2024,2024Q3,87568,Apartment,regular_sale,1960,3150000,0,4,87,36206.9,"Kongebakken 13, 1. tv",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87710,Summerhouse,regular_sale,1972,545000,-4,1,27,20185.186,Klinteløkken 15A,3770,Allinge,Bornholm,Bornholm,3.35,1.13,4.34
+9/3/2024,2024Q3,87565,Apartment,regular_sale,1973,5270000,0,4,121,43553.72,"Vejlesøparken 33, 4. tv",2840,Holte,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87691,Apartment,regular_sale,1967,740000,-5,3,79,9367.089,"Ãgirsvej 3, 2. tv",8920,Randers NV,East & mid jutland,Jutland,3.35,1.13,4.34
+9/3/2024,2024Q3,87638,Townhouse,regular_sale,1977,9000000,-5,7,191,47120.418,Helleholm 39,2960,Rungsted Kyst,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87571,Villa,regular_sale,1966,3300000,-6,4,147,22448.98,Ishøj Bygade 114,2635,Ishøj,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87734,Apartment,regular_sale,1884,2306000,0,2,44,52409.09,"Hedebygade 17A, 2. th",1754,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87684,Summerhouse,regular_sale,1959,1805000,20,3,46,39239.13,Tøftløs 10,6720,Fanø,South jutland,Jutland,3.35,1.13,4.34
+9/3/2024,2024Q3,87632,Villa,regular_sale,1959,7000000,-7,3,100,70000,Havlundsvej 36,8250,Egå,East & mid jutland,Jutland,3.35,1.13,4.34
+9/3/2024,2024Q3,87743,Villa,regular_sale,1973,1350000,-3,3,139,9712.23,Slejpnersvej 12,4873,Væggerløse,Other islands,Zealand,3.35,1.13,4.34
+9/3/2024,2024Q3,87715,Apartment,regular_sale,2023,2600000,-3,3,82,31707.316,"Tommerupgade 43, st. tv",2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87977,Villa,other_sale,1931,6410680,0,8,175,36632.457,Briksbølvej 42,6705,Esbjerg A,South jutland,Jutland,3.35,1.13,4.34
+9/2/2024,2024Q3,87763,Villa,regular_sale,1966,4800000,-8,5,144,33333.332,Tornskadevej 10,8210,Aarhus V,East & mid jutland,Jutland,3.35,1.13,4.34
+9/2/2024,2024Q3,87836,Apartment,regular_sale,2002,3225000,0,2,79,40822.785,"Baneskellet 2B, 1",2950,Vedbæk,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87877,Summerhouse,regular_sale,1978,825000,-8,4,55,15000,Bakkevej 3,4305,Orø,Other islands,Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87864,Summerhouse,regular_sale,1965,1275000,-15,4,90,14166.667,Kirsebærvej 8,3300,Frederiksværk,North Zealand,Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87965,Villa,regular_sale,1941,2845000,0,6,156,18237.18,Bruuns Alle 13,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/2/2024,2024Q3,87760,Summerhouse,regular_sale,1977,1495000,-6,4,68,21985.295,Fredlygårdsvej 17,3370,Melby,North Zealand,Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87973,Villa,regular_sale,1972,1050000,0,4,131,8015.267,Hyldevænget 4,5856,Ryslinge,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/2/2024,2024Q3,87894,Villa,regular_sale,1802,2025000,-8,4,140,14464.286,Miltoften 2,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87833,Villa,family_sale,1963,433000,0,3,96,4510.4165,Hovedvejen 4,9632,Møldrup,North jutland,Jutland,3.35,1.13,4.34
+9/2/2024,2024Q3,87790,Townhouse,regular_sale,2005,1450000,-3,3,83,17469.879,Mejdalparken 86,7500,Holstebro,South jutland,Jutland,3.35,1.13,4.34
+9/2/2024,2024Q3,87863,Villa,regular_sale,1950,375000,0,6,207,1811.5942,KrÃ¼gersvej 31,6541,Bevtoft,South jutland,Jutland,3.35,1.13,4.34
+9/2/2024,2024Q3,87982,Summerhouse,regular_sale,1980,2575000,0,2,60,42916.668,Solsortevej 8,2791,Dragør,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87919,Villa,regular_sale,2000,2395000,0,5,153,15653.595,Linde Alle 44,8723,Løsning,East & mid jutland,Jutland,3.35,1.13,4.34
+9/2/2024,2024Q3,87942,Apartment,regular_sale,1936,725000,0,2,69,10507.246,"Klosterstræde 40, 3. tv",4800,Nykøbing F,Other islands,Zealand,3.35,1.13,4.34
+9/2/2024,2024Q3,87834,Townhouse,regular_sale,1976,2250000,-4,4,125,18000,Nonnevænget 23,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+9/1/2024,2024Q3,88113,Villa,regular_sale,1946,2025000,-4,3,98,20663.266,Sveasvej 23,3700,Rønne,Bornholm,Bornholm,3.35,1.13,4.34
+9/1/2024,2024Q3,88013,Apartment,regular_sale,1985,2065000,0,3,89,23202.248,"Rådhusvænget 21, 1. tv",3600,Frederikssund,North Zealand,Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88185,Townhouse,regular_sale,1985,825000,-8,3,71,11619.719,Birkeparken 8,4540,Fårevejle,Other islands,Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88008,Villa,regular_sale,1925,900000,0,7,141,6382.9785,Aster Hassing Vej 11,9310,Vodskov,North jutland,Jutland,3.35,1.13,4.34
+9/1/2024,2024Q3,87996,Villa,regular_sale,1951,2800000,-3,3,92,30434.783,Elmegade 4,6705,Esbjerg A,South jutland,Jutland,3.35,1.13,4.34
+9/1/2024,2024Q3,88045,Villa,regular_sale,1930,4025000,-10,5,160,25156.25,Sølystvej 64,8600,Silkeborg,East & mid jutland,Jutland,3.35,1.13,4.34
+9/1/2024,2024Q3,88058,Villa,regular_sale,1939,7100000,-11,6,138,51449.273,Javavej 10A,2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88060,Apartment,regular_sale,1904,2000000,0,2,53,37735.848,"Lombardigade 19, st. th",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88054,Villa,regular_sale,1974,7250000,0,7,168,43154.76,Sophus Bauditz Vej 15B,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88011,Townhouse,regular_sale,1988,1595000,0,4,114,13991.229,Søndre Boulevard 341,7200,Grindsted,South jutland,Jutland,3.35,1.13,4.34
+9/1/2024,2024Q3,88027,Villa,regular_sale,1988,4495000,0,9,219,20525.113,Ege AllÃ© 94,8600,Silkeborg,East & mid jutland,Jutland,3.35,1.13,4.34
+9/1/2024,2024Q3,88100,Villa,regular_sale,1930,3346000,5,7,150,22306.666,Hans Tausensgade 19A,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88040,Apartment,regular_sale,1946,1925000,0,3,63,30555.555,"Magnoliavej 8, st. tv",2600,Glostrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,88018,Villa,regular_sale,1998,2350000,-2,5,144,16319.444,Martinsvej 5,7000,Fredericia,South jutland,Jutland,3.35,1.13,4.34
+9/1/2024,2024Q3,88184,Townhouse,regular_sale,1963,4000000,-5,5,114,35087.72,Granbakken 30,3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+9/1/2024,2024Q3,87991,Villa,regular_sale,1880,1265000,-2,3,122,10368.853,Kommunegårdsvej 9,4952,Stokkemarke,Other islands,Zealand,3.35,1.13,4.34
+8/31/2024,2024Q3,88242,Summerhouse,regular_sale,1967,950000,-3,3,50,19000,Egebregnen 18,4070,Kirke Hyllinge,Other islands,Zealand,3.35,1.13,4.34
+8/31/2024,2024Q3,88214,Villa,regular_sale,1969,2075000,0,5,175,11857.143,Præsteengen 25,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+8/31/2024,2024Q3,88245,Villa,regular_sale,1775,895000,0,5,268,3339.5522,Fanefjordgade 97,4792,Askeby,Other islands,Zealand,3.35,1.13,4.34
+8/31/2024,2024Q3,88233,Townhouse,regular_sale,1974,3295000,0,4,109,30229.357,Kirsebærvangen 116,2765,Smørum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/30/2024,2024Q3,88297,Villa,regular_sale,1976,2850000,-2,4,115,24782.61,Vemmedrupvej 47,4632,Bjæverskov,Other islands,Zealand,3.35,1.13,4.34
+8/30/2024,2024Q3,88344,Villa,regular_sale,1970,4055000,2,5,124,32701.613,Stolpeager 60,2670,Greve,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88391,Apartment,regular_sale,1969,615000,-5,1,42,14642.857,"Granly Alle 5C, 1. mf",6710,Esbjerg V,South jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88530,Summerhouse,regular_sale,1976,1995000,0,3,55,36272.727,Jørgensvej 10,3210,Vejby,North Zealand,Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88436,Villa,regular_sale,1979,900000,-8,4,145,6206.8965,Runebakken 5,6500,Vojens,South jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88372,Villa,regular_sale,1994,3995000,0,4,109,36651.375,Bygmarken 5,2680,Solrød Strand,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88579,Townhouse,regular_sale,2011,2802500,-3,4,142,19735.916,Sønderholmvej 123,8361,Hasselager,East & mid jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88348,Townhouse,regular_sale,1962,2900000,-3,4,84,34523.81,Jellerød Have 76,2980,Kokkedal,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88477,Villa,regular_sale,1951,1175000,-9,5,80,14687.5,Baldersvej 3,3300,Frederiksværk,North Zealand,Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88353,Summerhouse,family_sale,1978,399500,0,3,45,8877.777,Søgårdsvej 4,6823,Ansager,South jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88434,Summerhouse,regular_sale,1967,3900000,-2,2,77,50649.35,Mågevej 28,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/29/2024,2024Q3,88524,Villa,regular_sale,1961,2995000,0,4,112,26741.072,Aurikelvej 11,8240,Risskov,East & mid jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88523,Villa,regular_sale,1973,4070000,0,6,166,24518.072,Mågevænget 4,6710,Esbjerg V,South jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88418,Villa,regular_sale,1936,6495000,0,4,98,66275.51,Mosebuen 26,2820,Gentofte,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88571,Apartment,regular_sale,2023,4150000,0,4,117,35470.086,Premieren 12,4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88420,Villa,regular_sale,1880,400000,-33,6,167,2395.2095,Vøjstrupvej 6,5672,Broby,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/29/2024,2024Q3,88583,Summerhouse,regular_sale,2010,3940000,0,4,111,35495.496,Kisserup Strand Ast 16,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88438,Villa,regular_sale,1924,1295000,0,7,164,7896.3413,Sognevejen 236,9620,Aalestrup,North jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88355,Villa,regular_sale,1957,5498000,0,4,137,40131.387,Vestre StrandallÃ© 152,8240,Risskov,East & mid jutland,Jutland,3.35,1.13,4.34
+8/29/2024,2024Q3,88367,Summerhouse,regular_sale,1955,1600000,-11,4,99,16161.616,Brinken 163,4671,Strøby,Other islands,Zealand,3.35,1.13,4.34
+8/29/2024,2024Q3,88577,Villa,regular_sale,2000,1795000,0,4,135,13296.296,Digtervænget 38,9550,Mariager,North jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88721,Villa,regular_sale,1969,2615000,5,4,110,23772.727,Bøgevej 5,3550,Slangerup,North Zealand,Zealand,3.35,1.13,4.34
+8/28/2024,2024Q3,88596,Apartment,regular_sale,1970,1145000,0,2,66,17348.484,"Teglgårdsvej 617, 2. tv",3050,Humlebæk,North Zealand,Zealand,3.35,1.13,4.34
+8/28/2024,2024Q3,88588,Villa,regular_sale,1912,1620000,2,5,182,8901.099,Torvegade 12,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88797,Villa,regular_sale,1984,2400000,-4,4,95,25263.158,Brombærhaven 18,8520,Lystrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88630,Villa,regular_sale,1961,1000000,-9,4,118,8474.576,Dragonvej 38,6270,Tønder,South jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88749,Apartment,regular_sale,1908,1075000,0,2,46,23369.564,"Slagterivej 10, st. tv",4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+8/28/2024,2024Q3,88617,Apartment,regular_sale,1938,3095000,0,3,62,49919.355,"Sofienhøjvej 11, 3. tv",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/28/2024,2024Q3,88825,Summerhouse,regular_sale,1979,2650000,0,3,55,48181.816,Harestien 2,6857,Blåvand,South jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88662,Townhouse,regular_sale,1988,3100000,-4,4,107,28971.963,Stenmøllen 75,2640,Hedehusene,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/28/2024,2024Q3,88661,Summerhouse,family_sale,1999,1150000,0,4,109,10550.459,Rolles Møllevej 58,6640,Lunderskov,South jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88756,Villa,regular_sale,1935,1040000,-13,3,134,7761.194,Stengadevej 28,5953,Tranekær,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/28/2024,2024Q3,88651,Apartment,regular_sale,1973,1200000,0,1,40,30000,"Peter Ipsens AllÃ© 3, 2. 60",2400,København NV,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/28/2024,2024Q3,88728,Summerhouse,regular_sale,1971,625000,0,4,72,8680.556,Vandet Vest 17,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88799,Villa,regular_sale,1989,1410000,1,4,131,10763.358,Mosesvinget 13,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88602,Villa,regular_sale,1969,1340000,-4,4,123,10894.309,Elmevænget 3,9430,Vadum,North jutland,Jutland,3.35,1.13,4.34
+8/28/2024,2024Q3,88766,Townhouse,regular_sale,2007,3900000,-4,4,125,31200,Flintevej 17,2980,Kokkedal,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,88895,Villa,regular_sale,1962,1220000,-13,3,108,11296.296,C M Nielsens Vej 15,6710,Esbjerg V,South jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88979,Villa,regular_sale,2003,1610000,-5,4,113,14247.788,Munkebakken 2A,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88977,Villa,regular_sale,1965,1175000,-9,6,150,7833.3335,Baunevej 8,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88983,Summerhouse,regular_sale,1977,1135000,-9,3,50,22700,Katrinekær 45,4573,Højby,Other islands,Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,88889,Summerhouse,regular_sale,1978,1375000,-1,3,69,19927.537,Klydevej 4,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88855,Summerhouse,regular_sale,1967,730000,-9,4,86,8488.372,Vibevangen 1,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,89022,Villa,regular_sale,1968,3545000,-1,5,131,27061.068,Violvej 10,3650,Alstykke,North Zealand,Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,88938,Villa,regular_sale,1972,730000,-8,9,188,3882.9788,Solbakken 29,7730,Hanstholm,South jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88849,Villa,regular_sale,1954,6700000,-1,5,182,36813.188,Lærkevej 36,4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,89063,Villa,other_sale,1937,1150000,0,11,151,7615.894,Skolegade 7B,4653,Karise,Other islands,Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,88931,Villa,regular_sale,1977,3075000,-4,4,126,24404.762,Klintevænget 4,4681,Herfølge,Other islands,Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,88906,Villa,regular_sale,1927,400000,-33,4,139,2877.6978,Bjørnsbækvej 103,9870,Sindal,North jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88920,Villa,regular_sale,1960,5800000,-3,4,115,50434.78,Stormly 44,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,89104,Villa,regular_sale,1988,680000,0,3,113,6017.699,Frederikshåbvej 4A,6623,Vorbasse,South jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88915,Apartment,regular_sale,1938,3300000,0,3,70,47142.855,"Kastanie AllÃ© 26B, st. th",2720,Vanløse,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/27/2024,2024Q3,88891,Apartment,regular_sale,1969,1175000,0,2,69,17028.986,"Juelsparken 2, 1. th",9210,Aalborg SA,North jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,88846,Villa,regular_sale,1969,1700000,-5,4,120,14166.667,Mercurvej 28,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+8/27/2024,2024Q3,89009,Villa,other_sale,1937,1150000,0,4,109,10550.459,Skolegade 7A,4653,Karise,Other islands,Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146049,Villa,regular_sale,1934,3005000,-5,7,180,16694.445,Havedal 6,6760,Ribe,South jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,89116,Townhouse,regular_sale,1960,4100000,3,4,93,44086.023,Skyttebjerg 33,2850,Nærum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146040,Apartment,regular_sale,1902,3110000,0,2,53,58679.246,"Esromgade 10, 3. th",2200,København N,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146079,Apartment,regular_sale,1975,1625000,0,2,70,23214.285,"Hammeren 32, 2. 199",2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146143,Villa,regular_sale,2022,4750000,0,5,180,26388.889,Sct Knuds Park 25,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,146088,Villa,regular_sale,1924,1100000,-15,6,132,8333.333,Gregersens Alle 3,6705,Esbjerg A,South jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,146071,Summerhouse,regular_sale,1927,975000,-11,3,61,15983.606,Strandvejen Grønninghoved 5,6093,Sjølund,South jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,89123,Apartment,regular_sale,1891,3350000,0,4,104,32211.54,"Sjællandsgade 80, 1",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,146125,Summerhouse,regular_sale,1965,1100000,-8,3,72,15277.777,Skovbrynet 15,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146174,Villa,regular_sale,1979,620000,-4,4,113,5486.7256,Ahlefeldtvej 4,6200,Aabenraa,South jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,146163,Villa,regular_sale,1971,5500000,-8,5,153,35947.71,Tjørnebakken 14,3460,Birkerød,North Zealand,Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146028,Summerhouse,regular_sale,1967,945000,-5,3,35,27000,Dybkærvej 18,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146023,Villa,regular_sale,1925,375000,-12,4,99,3787.879,Broagervej 23,9700,Brønderslev,North jutland,Jutland,3.35,1.13,4.34
+8/26/2024,2024Q3,89112,Villa,regular_sale,1937,3275000,-1,5,127,25787.402,Kongensgade 57,3550,Slangerup,North Zealand,Zealand,3.35,1.13,4.34
+8/26/2024,2024Q3,146138,Apartment,regular_sale,2018,7700000,0,4,168,45833.332,"Havneøen 9, 5. th",7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146397,Farm,regular_sale,1855,2900000,-9,8,272,10661.765,Hou Engvej 18,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146400,Farm,regular_sale,1921,1450000,-9,5,169,8579.882,Nefovej 11,9310,Vodskov,North jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146385,Villa,regular_sale,1998,3335000,-5,5,149,22382.55,Astermarksvej 44,8381,Tilst,East & mid jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146367,Villa,regular_sale,1949,4350000,-3,5,159,27358.49,Vestervej 22,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/25/2024,2024Q3,146371,Apartment,regular_sale,1939,1615000,0,2,65,24846.154,"Thuresensgade 33A, 2. th",5000,Odense C,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/25/2024,2024Q3,146257,Villa,regular_sale,1978,500000,-16,4,118,4237.288,Vibevej 44,6920,Videbæk,South jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146293,Apartment,regular_sale,1969,1100000,0,1,43,25581.395,"Ejboparken 37, 1. mf",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/25/2024,2024Q3,146226,Townhouse,regular_sale,2006,5600000,0,4,122,45901.64,Sandløkken 27,2791,Dragør,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/25/2024,2024Q3,146285,Summerhouse,family_sale,1970,2200000,0,4,104,21153.846,Ravnsbækvej 1,8585,Glesborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146290,Apartment,regular_sale,1957,3200000,-8,2,53,60377.36,"Adelgade 47, 2. mf",1304,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/25/2024,2024Q3,146343,Villa,regular_sale,1989,1050000,-18,5,126,8333.333,Vestparken 2,6880,Tarm,South jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146198,Summerhouse,regular_sale,1971,3400000,-3,4,69,49275.363,Hanebjerg Skovvej 14C,3210,Vejby,North Zealand,Zealand,3.35,1.13,4.34
+8/25/2024,2024Q3,146229,Summerhouse,regular_sale,1999,2090000,0,4,87,24022.988,Areflippen 65A,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+8/25/2024,2024Q3,146253,Villa,regular_sale,1887,1295000,-7,4,133,9736.842,Nyborgvej 205,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/24/2024,2024Q3,146438,Apartment,regular_sale,2004,5800000,0,3,94,61702.13,"Edvard Falcks Gade 2, 3. tv",1569,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/24/2024,2024Q3,146462,Villa,regular_sale,1944,695000,-13,5,156,4455.1284,Vinkelvej 184,8800,Viborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/24/2024,2024Q3,146442,Summerhouse,regular_sale,1984,2825000,-4,5,75,37666.668,Vindgaf 35,6720,Fanø,South jutland,Jutland,3.35,1.13,4.34
+8/24/2024,2024Q3,146480,Villa,regular_sale,1971,1925000,-4,5,154,12500,Sønderjyllands Alle 39,9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+8/24/2024,2024Q3,146434,Villa,regular_sale,1984,1650000,-8,4,114,14473.685,Jens Baggesens Vej 9,8400,Ebeltoft,East & mid jutland,Jutland,3.35,1.13,4.34
+8/24/2024,2024Q3,146471,Summerhouse,regular_sale,1967,2210000,-6,3,55,40181.816,Stærevænget 4,3210,Vejby,North Zealand,Zealand,3.35,1.13,4.34
+8/24/2024,2024Q3,146481,Summerhouse,regular_sale,1950,1075000,-10,5,76,14144.737,Drosselvej 22,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+8/24/2024,2024Q3,146468,Villa,regular_sale,1953,3300000,-6,4,147,22448.98,Fredensborgvej 22,3080,Tikøb,North Zealand,Zealand,3.35,1.13,4.34
+8/24/2024,2024Q3,146472,Villa,regular_sale,1934,3100000,-3,3,98,31632.652,Solvej 9,2635,Ishøj,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/23/2024,2024Q3,146521,Townhouse,regular_sale,1951,4395000,0,5,96,45781.25,Feldborgvej 10,2770,Kastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/23/2024,2024Q3,146546,Villa,regular_sale,2000,2057000,3,4,131,15702.29,Højagervej 5,8472,Sporup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/23/2024,2024Q3,146535,Summerhouse,regular_sale,2012,2900000,0,2,49,59183.67,Sjelborgdalen 50,6710,Esbjerg V,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146787,Apartment,regular_sale,1914,4600000,0,2,66,69696.97,"Astergade 45, st. tv",6700,Esbjerg,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146694,Apartment,regular_sale,1961,2360000,0,3,83,28433.734,"Møllebakken 32, 1. th",3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146739,Summerhouse,regular_sale,1977,1200000,-4,4,71,16901.408,Rørhønevej 11,7760,Hurup Thy,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146611,Villa,regular_sale,1905,960000,-4,2,103,9320.389,Kirsebærvej 21,4800,Nykøbing F,Other islands,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146677,Villa,regular_sale,1931,1116111,40,7,219,5096.3975,Nykøbingvej 118,4850,Stubbekøbing,Other islands,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146573,Villa,regular_sale,1948,825000,-15,5,134,6156.7163,Jernbanegade 2,8882,Fårvang,East & mid jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146746,Villa,regular_sale,1962,1300000,-3,5,150,8666.667,Nykøbingvej 216,4571,Grevinge,Other islands,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146651,Summerhouse,regular_sale,1973,1090000,-13,2,40,27250,Beravej 7,4583,Sjællands Odde,Other islands,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146716,Apartment,regular_sale,1946,1580000,-7,2,49,32244.898,"Vigerslevvej 273, 1. tv",2500,Valby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146652,Villa,regular_sale,2005,1425000,0,5,92,15489.131,Fjand Strand 40,6990,Ulfborg,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146667,Apartment,regular_sale,1964,2150000,0,1,34,63235.293,"Kronprinsesse Sofies Vej 22, 5. 4",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146668,Villa,regular_sale,1973,3995000,0,5,170,23500,Mørbjergparken 41,4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146768,Apartment,regular_sale,2014,2400000,-4,2,87,27586.207,"Ãkæret 9, 4. 1",7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146760,Apartment,regular_sale,2018,3395000,0,3,72,47152.777,"Amagerfælledvej 120, st. th",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146644,Villa,regular_sale,1870,905000,-9,5,110,8227.272,Aastrupvej 47,4850,Stubbekøbing,Other islands,Zealand,3.35,1.13,4.34
+8/22/2024,2024Q3,146798,Farm,family_sale,1940,390000,0,5,129,3023.2559,Bøgebjergvej 69,5672,Broby,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/22/2024,2024Q3,146784,Townhouse,regular_sale,1982,925000,0,3,77,12012.987,Nørretorp 58A,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146785,Villa,regular_sale,1967,850000,-5,4,124,6854.839,Starupvej 14,6823,Ansager,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146630,Apartment,regular_sale,1700,800000,0,7,140,5714.2856,"Hornelund 6, 1",6800,Varde,South jutland,Jutland,3.35,1.13,4.34
+8/22/2024,2024Q3,146747,Villa,family_sale,1967,1460000,0,6,147,9931.973,Tyrsbjergvej 80,5210,Odense NV,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/21/2024,2024Q3,146897,Townhouse,regular_sale,1967,2300000,0,4,123,18699.188,Ellebækvej 7,8520,Lystrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,147090,Summerhouse,regular_sale,2016,3500000,-3,4,150,23333.334,Præstemarken 41,9560,Hadsund,North jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,146965,Villa,regular_sale,1976,4238000,-1,5,174,24356.322,Tornegårdsvej 7,4621,Gadstrup,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,147024,Townhouse,regular_sale,2006,2287500,-4,3,116,19719.828,Hobrovej 98E,9530,Støvring,North jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,147053,Apartment,regular_sale,2012,4195000,0,4,85,49352.94,"Clara Pontoppidans Vej 20, st. tv",2500,Valby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146865,Villa,regular_sale,1827,1125000,-23,4,61,18442.623,Kystvejen 10,5466,Asperup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/21/2024,2024Q3,146966,Villa,regular_sale,1977,950000,-5,5,125,7600,KongeAsen 134,4230,Skælskør,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146839,Villa,regular_sale,1949,1950000,-11,4,143,13636.363,Strandvejen 51,4880,Nysted,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146906,Villa,other_sale,1962,1600000,0,6,177,9039.548,Møllegade 36,6440,Augustenborg,South jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,146980,Villa,regular_sale,1934,750000,-21,4,132,5681.8184,Frilandsvej 59,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,146887,Apartment,regular_sale,1967,1188400,0,3,75,15845.333,"Odensevej 112, 2. tv",4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146867,Villa,regular_sale,1897,1495000,0,5,170,8794.117,Nr. Arslev Bygade 29,4800,Nykøbing F,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146937,Villa,regular_sale,1934,1250000,0,8,201,6218.9053,Lindevej 11,7900,Nykøbing M,South jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,146890,Summerhouse,regular_sale,1988,4470000,0,4,88,50795.453,Per Knoldsvej 10,6857,Blåvand,South jutland,Jutland,3.35,1.13,4.34
+8/21/2024,2024Q3,146879,Townhouse,regular_sale,1943,5200000,-5,3,103,50485.438,Møllestien 13,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146866,Summerhouse,regular_sale,1976,3000000,-9,6,154,19480.52,Perikumvej 5,4873,Væggerløse,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,147089,Villa,regular_sale,1983,7300000,-3,8,227,32158.59,Orehøjvej 1C,4320,Lejre,Other islands,Zealand,3.35,1.13,4.34
+8/21/2024,2024Q3,146976,Villa,regular_sale,1974,1600000,-4,6,183,8743.169,Engdraget 59,6870,Algod,South jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147249,Apartment,regular_sale,1981,880000,0,2,52,16923.076,"Skejbygårdsvej 6, kl. 62",8240,Risskov,East & mid jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147149,Villa,regular_sale,1964,3375000,-6,6,177,19067.797,Ryttervænget 58,3650,Alstykke,North Zealand,Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147201,Villa,regular_sale,1964,3405000,1,5,147,23163.266,Gravlevvej 40,9520,Skørping,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147325,Villa,regular_sale,1924,6500000,0,5,161,40372.67,Eyvinds AllÃ© 7,5250,Odense SV,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/20/2024,2024Q3,147105,Villa,regular_sale,1974,1575000,-7,4,150,10500,Højtoften 9,9620,Aalestrup,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147159,Villa,regular_sale,1875,2075000,-6,5,179,11592.179,Kærtoften 3,8410,Rønde,East & mid jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147122,Villa,regular_sale,1890,755000,0,4,78,9679.487,Bøgballevej 38,8723,Løsning,East & mid jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147259,Apartment,regular_sale,1966,550000,0,3,76,7236.8423,"Vestervangsvej 71, 3. 311",8800,Viborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147336,Villa,regular_sale,2003,1725000,-1,4,128,13476.5625,Klarlunden 27,9510,Arden,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147316,Summerhouse,regular_sale,2021,1615000,0,3,48,33645.832,Fjordstien 164,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147206,Villa,regular_sale,1910,725000,-12,5,156,4647.436,Skolegade 35,4653,Karise,Other islands,Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147258,Farm,regular_sale,1938,5600000,-7,5,230,24347.826,Rørmosevej 2,4534,Hørve,Other islands,Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147298,Villa,regular_sale,1970,1040000,-5,5,131,7938.931,Middelfartgade 7,9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147271,Townhouse,regular_sale,1977,3600000,0,3,105,34285.715,Bregnevænget 13,3050,Humlebæk,North Zealand,Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147300,Villa,regular_sale,1905,950000,0,4,120,7916.6665,Banegårdspladsen 19,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/20/2024,2024Q3,147287,Villa,regular_sale,1968,1145000,-4,5,127,9015.748,Engvej 32,9850,Hirtshals,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147121,Villa,regular_sale,1965,900000,-10,4,126,7142.857,Plantagen 4,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/20/2024,2024Q3,147145,Apartment,regular_sale,1939,3300000,0,2,62,53225.805,"Bremensgade 29, 2. th",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147188,Villa,regular_sale,1971,1676000,-12,4,129,12992.248,Agatvej 4,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147123,Townhouse,regular_sale,1990,3225000,0,4,92,35054.348,Lille Græsmarksvej 8B,4600,Køge,Other islands,Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147128,Villa,regular_sale,1969,610000,-5,4,105,5809.524,Heldbjergvej 3,6200,Aabenraa,South jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147213,Villa,regular_sale,1986,1627000,-7,6,179,9089.386,Hindbærhaven 2,3730,Nexø,Bornholm,Bornholm,3.35,1.13,4.34
+8/20/2024,2024Q3,147276,Summerhouse,regular_sale,1998,1360000,-3,3,56,24285.715,Uglevej 4,4720,Præstø,Other islands,Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147129,Villa,regular_sale,1777,900000,0,4,98,9183.674,Marslev Byvej 9,5290,Marslev,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/20/2024,2024Q3,147286,Villa,regular_sale,1965,652000,10,4,122,5344.262,Bækvej 13,9300,Sæby,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147299,Apartment,regular_sale,1964,1500000,0,2,55,27272.727,"Taastrup Have 51, st. tv",2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/20/2024,2024Q3,147247,Apartment,other_sale,1934,2500000,0,3,90,27777.777,"Jens Vævers Vej 2, st",9990,Skagen,North jutland,Jutland,3.35,1.13,4.34
+8/20/2024,2024Q3,147125,Villa,regular_sale,1946,820000,-5,2,75,10933.333,Garvervej 7,4760,Vordingborg,Other islands,Zealand,3.35,1.13,4.34
+8/19/2024,2024Q3,147573,Summerhouse,regular_sale,1967,2850000,-11,3,88,32386.363,Egholmvej 4,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/19/2024,2024Q3,147486,Villa,regular_sale,1959,6600000,2,6,133,49624.06,Asminderødvej 11,2650,Hvidovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/19/2024,2024Q3,147530,Summerhouse,regular_sale,1985,1825000,-9,4,73,25000,Klittornvej 6,9493,Saltum,North jutland,Jutland,3.35,1.13,4.34
+8/19/2024,2024Q3,147510,Apartment,regular_sale,1936,1200000,0,2,62,19354.838,"Nyvangsvej 32A, 1. th",5000,Odense C,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/19/2024,2024Q3,147416,Apartment,family_sale,1983,1445000,0,2,70,20642.857,"Vestervang 32, 4. th",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+8/19/2024,2024Q3,147503,Apartment,regular_sale,1963,1050000,0,2,59,17796.61,Kløvervej 21C,6600,Vejen,South jutland,Jutland,3.35,1.13,4.34
+8/19/2024,2024Q3,147557,Villa,regular_sale,1953,925000,-7,4,91,10164.835,Storegade 82,8752,Astbirk,East & mid jutland,Jutland,3.35,1.13,4.34
+8/19/2024,2024Q3,147403,Villa,regular_sale,2001,1690000,0,6,196,8622.449,Terkelsbøl Bygade 16,6360,Tinglev,South jutland,Jutland,3.35,1.13,4.34
+8/19/2024,2024Q3,147431,Villa,family_sale,1957,950000,0,3,120,7916.6665,Hebevej 17,5800,Nyborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/19/2024,2024Q3,147508,Villa,regular_sale,1962,1900000,-4,4,107,17757.01,Vodskov Kirkevej 69,9310,Vodskov,North jutland,Jutland,3.35,1.13,4.34
+8/19/2024,2024Q3,147418,Summerhouse,regular_sale,1974,915000,0,3,61,15000,Myntevænget 14,4750,Lundby,Other islands,Zealand,3.35,1.13,4.34
+8/19/2024,2024Q3,147468,Villa,regular_sale,1912,10750000,-2,8,190,56578.95,Holcks Plads 18,2700,Brønshøj,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/19/2024,2024Q3,147363,Villa,regular_sale,1874,2580000,0,8,187,13796.791,Gl Tuse Næs Vej 9,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+8/19/2024,2024Q3,147411,Apartment,regular_sale,1935,826000,0,3,76,10868.421,"Astre Alle 38, 2. tv",4800,Nykøbing F,Other islands,Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147676,Townhouse,regular_sale,1969,1520000,-5,4,101,15049.505,Charles Roos Vænget 29,5270,Odense N,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/18/2024,2024Q3,147731,Villa,regular_sale,1979,1525000,-5,5,151,10099.338,Regulusparken 29,7323,Give,South jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147701,Villa,regular_sale,2006,7795000,0,7,257,30330.74,Solbakken 9,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147822,Townhouse,regular_sale,1922,800000,-16,3,70,11428.571,"Kongevejen 31, st",6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147799,Villa,regular_sale,2003,5000000,-6,7,204,24509.805,Anes Høj 3,8660,Skanderborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147708,Villa,regular_sale,1957,335000,-11,3,87,3850.5747,Skagensvej 228,9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147672,Apartment,regular_sale,1958,3395000,0,3,75,45266.668,"Cedervænget 41, 3. th",2830,Virum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147749,Summerhouse,regular_sale,1979,1505000,1,4,80,18812.5,Kr Madsens Vej 17,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147751,Villa,regular_sale,1967,3198000,0,4,111,28810.81,Højvangsvej 46,8260,Viby J,East & mid jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147684,Villa,regular_sale,1969,450000,-17,4,122,3688.5247,Kløvertoften 21,6430,Nordborg,South jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147768,Apartment,regular_sale,1967,1832000,0,3,75,24426.666,"Gyvelvej 12D, 1. th",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147719,Villa,regular_sale,1966,5150000,-4,6,168,30654.762,Tværager 47,2670,Greve,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147761,Townhouse,regular_sale,2007,3350000,-1,4,97,34536.082,Højvangen 26,2690,Karlslunde,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147741,Villa,regular_sale,1971,1870000,-5,4,112,16696.428,Ternebakkevej 1,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147600,Villa,regular_sale,1970,695000,-13,5,94,7393.617,Tyttebærvej 8,6430,Nordborg,South jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147634,Summerhouse,regular_sale,1972,1072500,-6,4,75,14300,Fejøvej 23,8585,Glesborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/18/2024,2024Q3,147686,Townhouse,regular_sale,1990,1910000,-4,3,86,22209.303,Baunetoften 16,3320,Skævinge,North Zealand,Zealand,3.35,1.13,4.34
+8/18/2024,2024Q3,147827,Summerhouse,regular_sale,2009,2545000,0,4,99,25707.07,Riskrogvej 21,6960,Hvide Sande,South jutland,Jutland,3.35,1.13,4.34
+8/17/2024,2024Q3,147904,Apartment,regular_sale,1917,2900000,0,3,76,38157.895,"Tjørnegårdsvej 6, 1",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/17/2024,2024Q3,147867,Villa,regular_sale,1945,8550000,-5,7,141,60638.297,Bystykket 19,2850,Nærum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/17/2024,2024Q3,147892,Villa,family_sale,1952,695000,0,4,105,6619.048,Hesbjergvej 10,5491,Blommenslyst,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/17/2024,2024Q3,147838,Villa,regular_sale,1972,3350000,-9,5,132,25378.787,Havetoften 65,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/17/2024,2024Q3,147893,Summerhouse,regular_sale,1960,1487500,-7,3,45,33055.555,Fløjtevej 2,4573,Højby,Other islands,Zealand,3.35,1.13,4.34
+8/17/2024,2024Q3,147898,Summerhouse,regular_sale,1960,380000,0,2,66,5757.5757,Egevej Væltesbakke 14,9560,Hadsund,North jutland,Jutland,3.35,1.13,4.34
+8/16/2024,2024Q3,147940,Villa,regular_sale,1889,1900000,-17,6,136,13970.588,Fiskervænget 2,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/16/2024,2024Q3,147956,Summerhouse,regular_sale,1984,1695000,0,3,46,36847.824,Koglevænget 42,4573,Højby,Other islands,Zealand,3.35,1.13,4.34
+8/16/2024,2024Q3,147959,Apartment,regular_sale,1902,1960000,0,3,74,26486.486,"Roersvej 11, st. tv",5000,Odense C,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/16/2024,2024Q3,147919,Summerhouse,regular_sale,1974,1600000,-11,4,78,20512.82,Brudbjergvej 13,6830,Nørre Nebel,South jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148110,Villa,regular_sale,1956,4250000,-6,6,116,36637.93,Nattergalevej 28,8210,Aarhus V,East & mid jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,147995,Villa,regular_sale,1966,795000,0,4,110,7227.273,Gartnervænget 3,4900,Nakskov,Other islands,Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,148000,Apartment,regular_sale,1902,2850000,0,3,85,33529.41,"Emil Bojsens Gade 16, 1",8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148191,Townhouse,regular_sale,2023,5895000,0,5,136,43345.59,Laanshøj Alle 130,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,148028,Villa,regular_sale,1902,1125000,-6,4,141,7978.7236,Trehøjevej 70,8981,Spentrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148143,Summerhouse,regular_sale,1984,1862500,-7,3,47,39627.66,Hafavej 147,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148092,Villa,regular_sale,1972,950000,-10,4,120,7916.6665,Valmuevej 15,9330,Dronninglund,North jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148179,Villa,regular_sale,1898,330000,0,3,103,3203.8835,Vestergade 24,6520,Toftlund,South jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148127,Villa,regular_sale,1987,1845000,0,6,157,11751.593,Bakken 202,7441,Bording,South jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148099,Apartment,regular_sale,1974,1250000,0,2,57,21929.824,"Saven C 1, 2. 4",2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,148225,Villa,regular_sale,1972,3495000,-3,4,164,21310.977,Enghavegårdsvej 49,3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,147983,Villa,regular_sale,1939,1537950,0,7,174,8838.793,Amtsvejen 81,3320,Skævinge,North Zealand,Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,148218,Villa,regular_sale,1925,4350000,-7,6,141,30851.064,Mølleparkvej 39,9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148183,Summerhouse,regular_sale,2004,1200000,-4,4,95,12631.579,Kløvervej 453,6990,Ulfborg,South jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148129,Apartment,regular_sale,1950,2710000,0,4,74,36621.62,"Vigerslevvej 311, st. tv",2500,Valby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,148195,Summerhouse,regular_sale,2021,1585000,-2,4,76,20855.264,Kragemarken 25,9850,Hirtshals,North jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148006,Villa,regular_sale,2018,3400000,-3,6,184,18478.262,Tarupvej 26,5792,Ãrslev,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/15/2024,2024Q3,148043,Villa,regular_sale,1955,4800000,-4,5,120,40000,Ved Fæstningen 6,2610,Rødovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/15/2024,2024Q3,148145,Summerhouse,regular_sale,1968,850000,0,4,73,11643.836,Hejsager Strandby 143,6100,Haderslev,South jutland,Jutland,3.35,1.13,4.34
+8/15/2024,2024Q3,148019,Villa,regular_sale,1963,2050000,-2,5,132,15530.303,Acervej 12,8462,Harlev J,East & mid jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,358213,Villa,regular_sale,1946,1930000,-6,6,222,8693.693,Ribevej 8,6630,Rødding,South jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,358220,Summerhouse,regular_sale,1979,580000,-3,3,75,7733.3335,Lyngtoften 9,8585,Glesborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,358136,Villa,regular_sale,1990,7050000,-9,4,155,45483.87,Astre Lagunevej 28,2680,Solrød Strand,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358116,Villa,regular_sale,1892,1495000,0,3,100,14950,Ringstedvej 71,4690,Haslev,Other islands,Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358073,Villa,regular_sale,1905,400000,-19,7,160,2500,Skolevangen 2,8830,Tjele,East & mid jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,148285,Apartment,regular_sale,1896,2400000,0,2,51,47058.824,"Mysundegade 5, 5. tv",1668,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358209,Apartment,regular_sale,1961,1150000,0,2,65,17692.309,"Kalundborgvej 6A, 1. th",4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358205,Farm,regular_sale,1900,1020000,0,4,140,7285.7144,Sortebjergvej 1,6640,Lunderskov,South jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,148258,Villa,other_sale,1906,20000000,0,10,632,31645.57,Lystruphavevej 7,8654,Bryrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,148270,Summerhouse,regular_sale,1959,1500000,-6,3,65,23076.924,Fyrreleddet 3,4560,Vig,Other islands,Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358175,Summerhouse,regular_sale,1995,1700000,14,3,63,26984.127,Hejrevej 4,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358192,Farm,regular_sale,1905,1300000,-11,5,180,7222.222,Stavnkærvej 12,7184,Vandel,South jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,148282,Villa,regular_sale,1973,1995000,0,5,206,9684.466,Kornvænget 26,4673,Rødvig Stevns,Other islands,Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,358100,Apartment,regular_sale,1932,4750000,0,2,98,48469.387,"Storegade 6, 1. th",6270,Tønder,South jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,148257,Apartment,regular_sale,1895,2700000,0,3,70,38571.43,"Hovedgaden 30, 1. tv",4140,Borup,Other islands,Zealand,3.35,1.13,4.34
+8/14/2024,2024Q3,148247,Villa,regular_sale,2000,1741500,3,4,123,14158.536,Mosetoften 3,7600,Struer,South jutland,Jutland,3.35,1.13,4.34
+8/14/2024,2024Q3,358102,Villa,regular_sale,1899,1246000,0,7,150,8306.667,Mønvej 44,4720,Præstø,Other islands,Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358298,Townhouse,regular_sale,2003,2200000,-2,3,98,22448.98,Fløjtevej 23,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358244,Apartment,regular_sale,1970,1750000,0,1,42,41666.668,"Birketinget 2E, 1. 511",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358430,Apartment,regular_sale,1956,270000,0,1,48,5625,"Frederiksdal Alle 28D, kl",7800,Skive,South jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358365,Farm,regular_sale,1926,3500000,0,7,236,14830.509,Gml Landevej 10,8544,Mørke,East & mid jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358288,Apartment,regular_sale,1802,7800000,-1,3,132,59090.91,"Wildersgade 60C, st. th",1408,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358310,Villa,regular_sale,1947,750000,0,3,103,7281.553,"Gl. Grenåvej 205, st",8960,Randers SA,East & mid jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358251,Apartment,regular_sale,1935,2600000,0,2,49,53061.223,"Rumæniensgade 12, 5. tv",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358340,Summerhouse,other_sale,2021,1100000,0,4,76,14473.685,Vestre Strandvej 13,4305,Orø,Other islands,Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358450,Townhouse,regular_sale,2000,3375000,-4,3,103,32766.99,Selmersvej 29,8260,Viby J,East & mid jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358353,Farm,regular_sale,1929,2650000,0,3,96,27604.166,Bredsten Landevej 158,7323,Give,South jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358447,Summerhouse,regular_sale,1955,730000,0,3,60,12166.667,Lærkevej 16,7600,Struer,South jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358258,Villa,regular_sale,1947,2500000,-7,7,160,15625,Stampmøllevej 2,8300,Odder,East & mid jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358249,Villa,regular_sale,1870,2395000,0,7,168,14255.952,Elvira Madigans Vej 15,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/13/2024,2024Q3,358229,Summerhouse,regular_sale,1972,900000,-5,4,78,11538.462,Asterstrand 32,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358266,Apartment,regular_sale,1956,3750000,0,4,107,35046.73,"Rådmand Steins Alle 13, 5. th",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/13/2024,2024Q3,358269,Apartment,regular_sale,1900,525000,0,2,69,7608.696,"Præstegården 1, 1",6510,Gram,South jutland,Jutland,3.35,1.13,4.34
+8/13/2024,2024Q3,358302,Townhouse,regular_sale,1968,3245000,0,4,98,33112.246,Græsager 17,2690,Karlslunde,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/12/2024,2024Q3,358589,Villa,family_sale,1977,780300,0,8,188,4150.5317,Skovparken 6,5853,Arbæk,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/12/2024,2024Q3,358719,Summerhouse,regular_sale,1991,1475000,-8,3,122,12090.164,Skovstræde 2,4983,Dannemare,Other islands,Zealand,3.35,1.13,4.34
+8/12/2024,2024Q3,358593,Apartment,regular_sale,1946,3200000,0,3,67,47761.195,"Grøndals Parkvej 8A, 2. tv",2720,Vanløse,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/12/2024,2024Q3,358547,Villa,regular_sale,1920,1995000,0,3,96,20781.25,Kirkegade 4,9400,Nørresundby,North jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358476,Villa,regular_sale,1799,2500000,0,5,156,16025.641,Kongevejen 27,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358559,Villa,regular_sale,1967,575000,-3,4,126,4563.492,Hasselvænget 42,7800,Skive,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358529,Villa,regular_sale,1975,1932000,-3,6,188,10276.596,Poppelvej 16,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358615,Villa,regular_sale,1953,1460000,-2,6,169,8639.054,Hjortevej 1,3300,Frederiksværk,North Zealand,Zealand,3.35,1.13,4.34
+8/12/2024,2024Q3,358711,Villa,regular_sale,1954,1075000,-10,3,78,13782.052,Irisvej 11,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+8/12/2024,2024Q3,358690,Townhouse,regular_sale,1938,1425000,0,4,146,9760.274,Tangevej 1B,6760,Ribe,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358609,Villa,regular_sale,1897,1700000,0,6,179,9497.207,Haslundkærvej 4,8940,Randers SV,East & mid jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358704,Summerhouse,regular_sale,2022,5400000,-10,5,195,27692.309,Skamlingsbakken 41,6093,Sjølund,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358694,Farm,regular_sale,1935,1150000,0,6,196,5867.347,Sønderbjerge 10,6330,Padborg,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358639,Villa,regular_sale,1945,3590000,-3,4,157,22866.242,Monradsgade 28,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358570,Villa,regular_sale,1972,2925000,-2,5,162,18055.555,Købmandsgården 52,4130,Viby Sjælland,Other islands,Zealand,3.35,1.13,4.34
+8/12/2024,2024Q3,358669,Apartment,regular_sale,1989,4625000,0,3,104,44471.152,"Vestergade 30, st. tv",6230,Rødekro,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358532,Summerhouse,regular_sale,1975,1595000,-6,4,74,21554.055,Nørrestrand 30A,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358554,Villa,regular_sale,1910,335000,-11,6,166,2018.0723,Sønderbyvej 7,6510,Gram,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358517,Villa,regular_sale,1900,950000,-5,3,85,11176.471,Skævlundvej 13,7130,Juelsminde,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358649,Villa,regular_sale,1965,525000,-5,4,118,4449.1523,Solvej 6,6500,Vojens,South jutland,Jutland,3.35,1.13,4.34
+8/12/2024,2024Q3,358512,Villa,regular_sale,1954,1760000,0,9,245,7183.6733,Skelbyvej 32B,4160,Herlufmagle,Other islands,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358780,Villa,regular_sale,1976,3951000,-6,4,117,33769.23,Bethesdavej 33A,8200,Aarhus N,East & mid jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358754,Townhouse,regular_sale,1917,1395000,0,3,96,14531.25,Poulas Alle 30,4400,Kalundborg,Other islands,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358937,Farm,regular_sale,1860,625000,-10,4,161,3881.9875,Tolshøj 21,9631,Gedsted,North jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358737,Apartment,family_sale,1931,4012500,0,4,107,37500,"Mejlgade 72, 4. th",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358740,Summerhouse,regular_sale,1988,832500,-1,3,47,17712.766,Strandstien 823K,4970,Rødby,Other islands,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358843,Summerhouse,regular_sale,1983,1995000,0,3,78,25576.924,Klintebakkevej 17,5642,Millinge,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/11/2024,2024Q3,358736,Townhouse,regular_sale,1979,710000,0,4,100,7100,Griegsvej 26,7500,Holstebro,South jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358759,Apartment,regular_sale,2006,2000000,0,4,112,17857.143,"Nygade 1B, 1. tv",7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358924,Villa,regular_sale,1995,3400000,-3,5,149,22818.791,Håndværkervej 25,8600,Silkeborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358929,Townhouse,regular_sale,1982,2630000,-2,4,102,25784.314,Laurbærvænget 124,8310,Tranbjerg J,East & mid jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358941,Villa,regular_sale,1983,6550000,0,4,132,49621.21,Weirsøevej 3B,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358913,Townhouse,regular_sale,2017,5395000,0,5,128,42148.438,Doris Lessings Vej 43A,2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358724,Villa,regular_sale,1965,2595000,0,5,129,20116.28,Mågevej 16,4100,Ringsted,Other islands,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358789,Summerhouse,family_sale,2008,1275000,0,4,105,12142.857,Møllebakken 48,7700,Thisted,South jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358814,Apartment,regular_sale,1900,670000,-8,2,57,11754.386,"Skibbrogade 10, 2. tv",6200,Aabenraa,South jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358918,Townhouse,regular_sale,2001,700000,-22,1,72,9722.223,Ulstrupvej 45B,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358797,Villa,regular_sale,1910,2495000,0,5,180,13861.111,Reerslevvej 46,4291,Ruds Vedby,Other islands,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358796,Apartment,regular_sale,1946,1300000,0,2,55,23636.363,"Sabroesvej 17B, st. tv",3000,Helsingør,North Zealand,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358933,Apartment,regular_sale,1898,4100000,0,2,70,58571.43,"Smallegade 24, 4. tv",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358859,Summerhouse,regular_sale,1972,1345000,0,4,56,24017.857,Kvartermestervej 12,4591,Føllenslev,Other islands,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358830,Summerhouse,regular_sale,1952,3600000,-8,4,95,37894.74,Sandvejen 4,9492,Blokhus,North jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358762,Villa,regular_sale,1979,2000000,0,5,154,12987.013,Brombærvej 50,7800,Skive,South jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358885,Townhouse,regular_sale,1981,820000,-9,2,63,13015.873,Engparken 7,8550,Ryomgård,East & mid jutland,Jutland,3.35,1.13,4.34
+8/11/2024,2024Q3,358822,Villa,regular_sale,2021,4000000,-11,6,189,21164.021,Lillebjergvej 28,3390,Hundested,North Zealand,Zealand,3.35,1.13,4.34
+8/11/2024,2024Q3,358845,Apartment,regular_sale,1966,1995000,0,2,55,36272.727,"Pilegårdsvej 58, 1. 2",2860,Søborg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/10/2024,2024Q3,358998,Villa,regular_sale,1900,2300000,0,6,310,7419.355,Ny Smedegårdvej 8,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+8/10/2024,2024Q3,358997,Townhouse,regular_sale,1986,995000,0,4,112,8883.929,Hans Lilholts Vej 5,7620,Lemvig,South jutland,Jutland,3.35,1.13,4.34
+8/10/2024,2024Q3,359012,Villa,regular_sale,2022,3660000,-4,4,155,23612.902,Nysøgård 125,4230,Skælskør,Other islands,Zealand,3.35,1.13,4.34
+8/10/2024,2024Q3,358975,Villa,regular_sale,1968,5700000,-4,6,137,41605.84,Fredensvej 26,2970,Hørsholm,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/9/2024,2024Q3,359081,Summerhouse,regular_sale,1974,1282500,-8,4,59,21737.29,Tigervej 3,4583,Sjællands Odde,Other islands,Zealand,3.35,1.13,4.34
+8/9/2024,2024Q3,359033,Villa,regular_sale,1910,895000,0,3,77,11623.377,Råbylille Strandvej 16,4780,Stege,Other islands,Zealand,3.35,1.13,4.34
+8/9/2024,2024Q3,359062,Apartment,regular_sale,1897,3850000,0,3,56,68750,"Flensborggade 21, 4. tv",1669,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/9/2024,2024Q3,359022,Townhouse,regular_sale,1964,4800000,-2,5,123,39024.39,Højbovænge 17,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+8/9/2024,2024Q3,359067,Summerhouse,family_sale,1971,450000,0,3,68,6617.647,Tjørnevej 5,7790,Thyholm,South jutland,Jutland,3.35,1.13,4.34
+8/9/2024,2024Q3,359065,Apartment,regular_sale,1933,4325000,0,3,81,53395.062,"Tagensvej 55, 4. th",2200,København N,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359300,Apartment,regular_sale,2019,2895000,0,2,64,45234.375,"C.F. Møllers AllÃ© 90, st. tv",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359168,Villa,regular_sale,1959,4100000,-5,5,125,32800,Fagotvej 3,2730,Herlev,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359321,Villa,regular_sale,1871,1175000,-6,9,252,4662.698,Hovedgaden 26,8300,Odder,East & mid jutland,Jutland,3.35,1.13,4.34
+8/8/2024,2024Q3,359169,Apartment,regular_sale,1974,1500000,0,1,62,24193.549,"Skomagergade 25, 2. 302",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359095,Villa,regular_sale,1947,1100000,-8,4,135,8148.148,Gl Kattrupvej 29,8732,Hovedgård,East & mid jutland,Jutland,3.35,1.13,4.34
+8/8/2024,2024Q3,359214,Summerhouse,regular_sale,1991,2070000,-10,3,60,34500,Odinsvej 13,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359111,Apartment,regular_sale,1899,8900000,0,4,123,72357.73,"Willemoesgade 23, 1. th",2100,København A,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359117,Summerhouse,regular_sale,1965,1400000,-12,3,49,28571.428,Digevej 2,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359216,Villa,regular_sale,1942,690000,-13,4,123,5609.756,Søndre Asløsvej 24,7742,Vesløs,South jutland,Jutland,3.35,1.13,4.34
+8/8/2024,2024Q3,359312,Villa,regular_sale,1978,1460000,-9,5,141,10354.61,Tjørnevej 16,4800,Nykøbing F,Other islands,Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359132,Summerhouse,regular_sale,2015,3800000,-5,4,88,43181.816,Stubbegårdsvej 32,3250,Gilleleje,North Zealand,Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359291,Townhouse,regular_sale,2022,3700000,0,2,71,52112.676,"Heibergs Have 3, st",3550,Slangerup,North Zealand,Zealand,3.35,1.13,4.34
+8/8/2024,2024Q3,359219,Villa,regular_sale,1885,675000,0,3,100,6750,Skårhavvej 12,8420,Knebel,East & mid jutland,Jutland,3.35,1.13,4.34
+8/8/2024,2024Q3,359091,Villa,regular_sale,1932,13010000,-6,5,186,69946.234,Ved Fortunen 19,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359538,Apartment,regular_sale,1943,1750000,0,2,54,32407.408,"Skanderborgvej 92, 1. 4",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359517,Villa,regular_sale,1965,465000,-12,5,105,4428.5713,Tuekærvej 7,4960,Holeby,Other islands,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359428,Apartment,regular_sale,1905,2900000,0,2,67,43283.582,"Strandvejen 20, 2",5800,Nyborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/7/2024,2024Q3,359353,Villa,regular_sale,1971,1200000,0,5,110,10909.091,Hallingås 6,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359383,Villa,regular_sale,1980,1950000,-8,3,96,20312.5,Aksenbjergvej 70B,5700,Svendborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/7/2024,2024Q3,359559,Villa,regular_sale,2014,3445000,-1,4,164,21006.098,Bæveren 23,9530,Støvring,North jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359582,Apartment,regular_sale,1901,1700000,0,3,86,19767.441,"Søndergade 20, st. th",9240,Nibe,North jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359487,Apartment,regular_sale,1970,625000,0,1,29,21551.725,"Kantorparken 12, 1. mf",8240,Risskov,East & mid jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359367,Summerhouse,regular_sale,1975,3900000,-2,2,102,38235.293,Iglekærvej 52,3220,Tisvildeleje,North Zealand,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359580,Summerhouse,regular_sale,1992,1073000,0,4,80,13412.5,Dyssevej 2,4900,Nakskov,Other islands,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359603,Villa,regular_sale,2022,1907500,-4,4,84,22708.334,"Stillingevej 118, 1. 1",4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359422,Townhouse,regular_sale,2001,2500000,0,4,118,21186.441,Follingsvej 9,9200,Aalborg SV,North jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359532,Summerhouse,family_sale,1974,977500,0,4,76,12861.842,Stokkebjergsvinget 7,3210,Vejby,North Zealand,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359450,Apartment,regular_sale,1901,3950000,-1,2,53,74528.305,"Burmeistersgade 27, 4. th",1429,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359431,Summerhouse,regular_sale,1974,965000,-3,3,60,16083.333,Gårdhøjsvej 12,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359445,Farm,regular_sale,1880,1795000,0,5,126,14246.032,Nyskovvej 11,6580,Vamdrup,South jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359432,Villa,regular_sale,1906,2000000,0,6,183,10928.962,Stationsvej 106,5792,Ãrslev,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/7/2024,2024Q3,359358,Villa,regular_sale,1980,1370000,-2,5,180,7611.1113,Limbekvej 1,6200,Aabenraa,South jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359365,Villa,regular_sale,1973,6795000,0,4,166,40933.734,Magnoliavej 3,3460,Birkerød,North Zealand,Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359385,Villa,regular_sale,1857,2775000,-3,9,222,12500,Hårupvej 16,8740,Brædstrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/7/2024,2024Q3,359558,Townhouse,regular_sale,2016,6200000,-5,4,128,48437.5,Frederiksborgvej 209A,2400,København NV,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/7/2024,2024Q3,359392,Villa,regular_sale,1972,2850000,-2,6,250,11400,Manbjergvej 81,8541,Skødstrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/6/2024,2024Q3,359784,Villa,regular_sale,1976,895000,-10,5,168,5327.381,Munkeparken 29,5600,Faaborg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/6/2024,2024Q3,359683,Apartment,regular_sale,1968,1200000,-4,1,46,26086.957,"Lindevangshusene 60, 2. mf",2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/6/2024,2024Q3,359783,Villa,regular_sale,1924,2195000,0,5,126,17420.635,Skolevej 1,5500,Middelfart,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/6/2024,2024Q3,359816,Townhouse,regular_sale,2015,2545000,0,4,125,20360,Ãdalsparken 32B,6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+8/6/2024,2024Q3,359669,Villa,regular_sale,1990,4500000,-10,4,154,29220.78,Bushøjvej 221,8270,Højbjerg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/6/2024,2024Q3,359697,Villa,regular_sale,1986,1720000,-4,4,117,14700.8545,Drosselvej 7,4652,Hårlev,Other islands,Zealand,3.35,1.13,4.34
+8/6/2024,2024Q3,359714,Apartment,regular_sale,1902,3800000,-5,4,86,44186.047,"Amagerbrogade 151, 2. th",2300,København S,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/6/2024,2024Q3,359711,Townhouse,regular_sale,1850,2400000,0,5,104,23076.924,Langelinie 5,6000,Kolding,South jutland,Jutland,3.35,1.13,4.34
+8/6/2024,2024Q3,359662,Villa,regular_sale,1959,685000,-1,6,142,4823.944,Hveddevej 19,6933,Kibæk,South jutland,Jutland,3.35,1.13,4.34
+8/6/2024,2024Q3,359829,Villa,regular_sale,1916,1150000,-4,3,91,12637.362,Viaduktvej 37,5500,Middelfart,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/6/2024,2024Q3,359686,Summerhouse,regular_sale,2000,1550000,-9,3,81,19135.803,Spartavej 10,9370,Hals,North jutland,Jutland,3.35,1.13,4.34
+8/6/2024,2024Q3,359620,Townhouse,regular_sale,1972,925000,-2,2,51,18137.256,Tarupvej 47,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+8/6/2024,2024Q3,359689,Farm,regular_sale,1826,1200000,-7,8,210,5714.2856,Kjeldsbakken 18,8983,Gjerlev J,East & mid jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,360061,Townhouse,regular_sale,1984,2100000,-4,3,88,23863.637,Græshave Alle 74,4622,Havdrup,Other islands,Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359948,Summerhouse,regular_sale,1969,2050000,29,3,54,37962.965,Lars Krandsvej 6,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359987,Townhouse,regular_sale,1980,875000,0,4,73,11986.302,Otte Ruds Vej 52,5220,Odense SA,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/5/2024,2024Q3,360000,Villa,regular_sale,1970,3950000,-1,4,121,32644.629,Slettetoften 7,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359877,Townhouse,regular_sale,1964,3300000,-1,3,92,35869.566,Jellerød Have 101,2980,Kokkedal,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359876,Townhouse,regular_sale,1990,1195000,0,4,110,10863.637,Enghaven 8,8740,Brædstrup,East & mid jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,360074,Townhouse,regular_sale,2016,4700000,-4,4,127,37007.875,Adjudantvænget 25,3520,Farum,North Zealand,Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359897,Farm,regular_sale,1887,950000,-13,6,180,5277.778,Hestehaven 17,5620,Glamsbjerg,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/5/2024,2024Q3,359875,Summerhouse,family_sale,2004,850000,0,4,80,10625,Langvarigheden 4,9940,Læsø,North jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359949,Summerhouse,regular_sale,1979,2050000,3,4,64,32031.25,Bomager 11,3230,Græsted,North Zealand,Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359976,Apartment,regular_sale,1970,3550000,0,2,76,46710.527,"Falkoner Alle 90, 3. 4",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359890,Townhouse,regular_sale,1948,3095000,0,3,66,46893.938,Røllikevej 17A,8240,Risskov,East & mid jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,360041,Villa,regular_sale,1930,6460000,-4,4,207,31207.729,Grænsevej 35,2650,Hvidovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,359938,Farm,regular_sale,1923,6500000,0,4,149,43624.16,Mejerivejen 23,5290,Marslev,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/5/2024,2024Q3,360033,Villa,regular_sale,1977,1420000,-5,5,144,9861.111,Olgavej 79,7800,Skive,South jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359859,Villa,regular_sale,1954,6405000,-1,4,95,67421.055,Kollelevbakken 23,2830,Virum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,360067,Villa,other_sale,1936,2100000,0,6,356,5898.8765,Mosebyvej 26,7500,Holstebro,South jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359992,Apartment,regular_sale,1893,3000000,-5,2,54,55555.555,"Ãlborggade 7, st. th",2100,København A,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/5/2024,2024Q3,360043,Apartment,regular_sale,1915,780000,0,4,87,8965.518,"Postvej 8, st",7160,Tørring,South jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359925,Villa,regular_sale,1953,1550000,-3,6,140,11071.429,Kirkebækvej 93,8800,Viborg,East & mid jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359906,Villa,regular_sale,1979,900000,-5,4,114,7894.737,Figgenvej 1,6640,Lunderskov,South jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359979,Villa,regular_sale,1973,1437500,-4,3,111,12950.45,Lille Randers 19,8410,Rønde,East & mid jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359861,Summerhouse,family_sale,1976,450000,0,3,61,7377.0493,Liengård 22,9640,Farsø,North jutland,Jutland,3.35,1.13,4.34
+8/5/2024,2024Q3,359910,Villa,regular_sale,1969,2550000,-7,4,128,19921.875,Overdrevet 2,4623,Lille Skensved,Other islands,Zealand,3.35,1.13,4.34
+8/4/2024,2024Q3,360103,Farm,regular_sale,1910,1350000,0,4,109,12385.321,Donsvej 53,6040,Egtved,South jutland,Jutland,3.35,1.13,4.34
+8/4/2024,2024Q3,360250,Apartment,regular_sale,1812,3150000,-7,2,68,46323.53,"Nørre Voldgade 26, st",1358,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/4/2024,2024Q3,360137,Villa,regular_sale,1977,1550000,-9,4,141,10992.908,Lillehøjen 34,5270,Odense N,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/4/2024,2024Q3,360150,Apartment,regular_sale,1895,3420000,0,2,49,69795.92,"Valdemarsgade 44, st. th",1665,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/4/2024,2024Q3,360188,Farm,regular_sale,1900,4300000,-4,7,213,20187.793,Obstrupvej 23,8320,Mårslet,East & mid jutland,Jutland,3.35,1.13,4.34
+8/4/2024,2024Q3,360199,Apartment,regular_sale,1973,790000,2,2,44,17954.545,Musvågevej 3J,5210,Odense NV,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/4/2024,2024Q3,360086,Apartment,regular_sale,1976,1105000,-4,2,74,14932.433,"Benløseparken 61, 1. tv",4100,Ringsted,Other islands,Zealand,3.35,1.13,4.34
+8/4/2024,2024Q3,360261,Townhouse,regular_sale,2018,3650000,0,5,138,26449.275,Høje Taastrup Vej 20A,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/4/2024,2024Q3,360292,Summerhouse,regular_sale,2021,2085000,-2,4,70,29785.715,Fjordstien 24,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+8/3/2024,2024Q3,360304,Villa,regular_sale,1990,1500000,-6,5,156,9615.385,Kirkevænget 9,6623,Vorbasse,South jutland,Jutland,3.35,1.13,4.34
+8/3/2024,2024Q3,360306,Villa,regular_sale,1963,3800000,-5,4,99,38383.84,Rørsangervej 15,4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+8/3/2024,2024Q3,360301,Villa,regular_sale,1929,1300000,-3,5,135,9629.63,Astergade 13,5591,Gelsted,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/3/2024,2024Q3,360333,Villa,regular_sale,1920,4550000,-5,7,150,30333.334,Egevej 1,7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+8/2/2024,2024Q3,707426,Summerhouse,regular_sale,1963,850000,0,2,48,17708.334,Lille Engvej 1,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+8/2/2024,2024Q3,707416,Summerhouse,regular_sale,1957,4015000,3,5,76,52828.95,Klitvej 3,6857,Blåvand,South jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707548,Summerhouse,regular_sale,1992,1350000,2,3,57,23684.21,Rødegvej 31,4873,Væggerløse,Other islands,Zealand,3.35,1.13,4.34
+8/1/2024,2024Q3,707475,Villa,regular_sale,1976,1995000,0,6,155,12870.968,Morten Vinges Vej 50,9240,Nibe,North jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707502,Villa,regular_sale,1980,450000,0,5,120,3750,Jægerskoven 23,6520,Toftlund,South jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707611,Villa,regular_sale,1973,2795000,-10,4,146,19143.836,Bymosevej 36,8210,Aarhus V,East & mid jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707465,Villa,regular_sale,1950,2295000,0,4,109,21055.045,Gammel Aabenraavej 41,6400,Sønderborg,South jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707578,Villa,regular_sale,1935,3200000,0,5,160,20000,Svanevej 56,5000,Odense C,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+8/1/2024,2024Q3,707567,Apartment,regular_sale,1972,2000000,-7,2,47,42553.19,"Brannersvej 21, 3. 19",2920,Charlottenlund,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/1/2024,2024Q3,707638,Apartment,regular_sale,2021,2345000,2,2,71,33028.168,"Bydammen 23, st. th",2750,Ballerup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+8/1/2024,2024Q3,707581,Villa,regular_sale,1973,1750000,-3,4,120,14583.333,Nørregade 7,8410,Rønde,East & mid jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707561,Villa,regular_sale,1937,1600000,-6,5,137,11678.832,Brejning Søndergade 25,7080,Børkop,South jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707545,Villa,regular_sale,1985,600000,0,2,78,7692.3076,Grønningen 15,8783,Hornsyld,East & mid jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707636,Apartment,regular_sale,2022,2700000,-5,2,71,38028.168,"Irma Pedersens Gade 60, st. 2",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+8/1/2024,2024Q3,707525,Villa,regular_sale,1965,1300000,-7,4,108,12037.037,Thorkildsvej 78,3700,Rønne,Bornholm,Bornholm,3.35,1.13,4.34
+8/1/2024,2024Q3,707521,Summerhouse,regular_sale,1961,2100000,-4,3,60,35000,Chr. E. Bartholdys Alle 34,3300,Frederiksværk,North Zealand,Zealand,3.35,1.13,4.34
+8/1/2024,2024Q3,707532,Farm,regular_sale,1950,825000,-41,5,133,6203.0073,Limfjordsvej 5,7790,Thyholm,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707681,Villa,regular_sale,1962,625000,-10,3,81,7716.0493,Hodsagervej 65,7490,Aulum,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707822,Summerhouse,regular_sale,1992,4250000,-15,6,226,18805.31,Horns Rev 22,6857,Blåvand,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707719,Apartment,regular_sale,1924,2395000,0,2,53,45188.68,"Valby Langgade 199, 1. tv",2500,Valby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707864,Townhouse,regular_sale,1987,3725000,-1,4,124,30040.322,Skyttemosen 34,3450,Allerød,North Zealand,Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707700,Townhouse,family_sale,1986,1168750,0,3,63,18551.588,Steinsgade 15L,5000,Odense C,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/31/2024,2024Q3,707926,Villa,regular_sale,1928,1350000,-25,5,145,9310.345,Seggelundvej 110,6070,Christiansfeld,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707763,Villa,regular_sale,1927,1200000,0,11,240,5000,Bymøllevej 46,4900,Nakskov,Other islands,Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707801,Villa,regular_sale,1934,5585000,-12,5,108,51712.965,Sognevej 66,2820,Gentofte,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707841,Villa,regular_sale,1985,1900000,-5,5,181,10497.237,Korsør Landevej 625,4220,Korsør,Other islands,Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707830,Townhouse,regular_sale,1958,3775000,0,4,96,39322.918,Ãparken 95,2605,Brøndby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707776,Apartment,family_sale,1938,1700000,0,3,90,18888.889,"Herluf Trolles Gade 20, 1. tv",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707805,Villa,regular_sale,1980,1145000,-4,7,182,6291.209,Møllegårdsvej 63,6862,Tistrup,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707897,Villa,regular_sale,1927,1350000,-22,9,212,6367.9243,Strucksalle 67,6270,Tønder,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707766,Villa,regular_sale,1973,3200000,0,6,153,20915.033,Søvangen 9,5260,Odense S,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/31/2024,2024Q3,707817,Villa,regular_sale,2002,4500000,0,5,177,25423.729,Dybbølsten 23,6400,Sønderborg,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707726,Villa,regular_sale,1897,1067000,-3,3,85,12552.941,Drisdalsvej 3,4370,Store Merløse,Other islands,Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707705,Villa,regular_sale,1973,1945000,3,3,106,18349.057,Turistvej 8,3390,Hundested,North Zealand,Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707915,Farm,regular_sale,1886,2300000,0,7,152,15131.579,Tim Kirkevej 92,6980,Tim,South jutland,Jutland,3.35,1.13,4.34
+7/31/2024,2024Q3,707708,Villa,regular_sale,1923,4955000,-1,7,152,32598.684,Enggade 3,5300,Kerteminde,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/31/2024,2024Q3,707747,Villa,regular_sale,1911,14600000,-6,8,216,67592.59,Poppel Alle 10,2840,Holte,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/31/2024,2024Q3,707767,Villa,regular_sale,1882,975000,-9,4,126,7738.095,Spodsbjergvej 131,5900,Rudkøbing,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/30/2024,2024Q3,708165,Apartment,regular_sale,2013,4495000,0,4,144,31215.277,"Toldbodgade 7, 3. tv",6100,Haderslev,South jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708063,Summerhouse,regular_sale,1977,1270000,-2,2,41,30975.61,Forgården 19,4780,Stege,Other islands,Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708163,Villa,regular_sale,2022,4350000,-3,6,203,21428.572,Lappedykkervej 16,8544,Mørke,East & mid jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708114,Villa,regular_sale,1934,2660000,-5,5,125,21280,Slotsvænget 1,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708048,Villa,regular_sale,1967,3750000,-1,5,161,23291.926,Solsortevej 1,8382,Hinnerup,East & mid jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,707988,Townhouse,family_sale,1875,799000,0,1,40,19975,Vråbyvej 23B,6792,Rømø,South jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,707984,Villa,regular_sale,1959,630000,-36,3,98,6428.5713,Nørrebrogade 131,8930,Randers NA,East & mid jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708113,Villa,regular_sale,1977,1905000,0,4,105,18142.857,Skyrervej 21,4684,Holmegaard,Other islands,Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,707965,Summerhouse,regular_sale,1978,1010000,-3,4,75,13466.667,Røllikestræde 3,5932,Humble,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/30/2024,2024Q3,708164,Apartment,regular_sale,2018,5995000,0,3,88,68125,"Sundkaj 67, st. th",2150,Nordhavn,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708175,Apartment,regular_sale,2017,2800000,-3,3,91,30769.23,"Pærelunden 5, st. th",4000,Roskilde,Other islands,Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708104,Villa,regular_sale,1860,500000,-9,3,100,5000,Gangervej 1,4840,Nørre Alslev,Other islands,Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708033,Apartment,family_sale,1931,3600000,0,3,59,61016.95,"Astbanegade 37, st. 3",2100,København A,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708166,Townhouse,regular_sale,2014,3500000,-3,5,123,28455.285,Fredensborgparken 53,8260,Viby J,East & mid jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708121,Villa,regular_sale,1979,4350000,-3,6,182,23901.1,Guldregnvej 39,8462,Harlev J,East & mid jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708072,Villa,regular_sale,1973,1790000,-5,4,143,12517.482,Sandagervej 29,9430,Vadum,North jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708159,Apartment,regular_sale,2022,7880000,0,5,121,65123.97,"Olivia Hansens Gade 13, 3. tv",1799,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,707959,Villa,regular_sale,2005,2075000,-5,5,146,14212.329,Brombærbakken 3,7600,Struer,South jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,707971,Villa,regular_sale,1936,3250000,2,3,60,54166.668,Ajax Alle 9,2650,Hvidovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708054,Villa,regular_sale,1967,1100000,0,5,138,7971.0146,Jespersvej 8,3700,Rønne,Bornholm,Bornholm,3.35,1.13,4.34
+7/30/2024,2024Q3,708066,Summerhouse,regular_sale,1962,1150000,-18,2,87,13218.391,Kastanievej 7,4573,Højby,Other islands,Zealand,3.35,1.13,4.34
+7/30/2024,2024Q3,708207,Apartment,regular_sale,1891,3950000,-1,3,98,40306.12,"Thunøgade 35, st. tv",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+7/30/2024,2024Q3,708004,Apartment,regular_sale,1985,2495000,0,3,78,31987.18,"Hvidovrevej 350C, 1. tv",2650,Hvidovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/29/2024,2024Q3,708284,Villa,regular_sale,2002,1800000,-5,3,103,17475.729,Mårhøj 21,8751,Gedved,East & mid jutland,Jutland,3.35,1.13,4.34
+7/29/2024,2024Q3,708381,Apartment,regular_sale,1976,720000,0,2,67,10746.269,"Svendborgvej 51, 1",4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+7/29/2024,2024Q3,708222,Apartment,regular_sale,2006,2350000,0,3,95,24736.842,"Smedegade 2, 5. mf",7600,Struer,South jutland,Jutland,3.35,1.13,4.34
+7/29/2024,2024Q3,708342,Villa,regular_sale,1958,7500000,-6,5,140,53571.43,Arnevangen 28,2840,Holte,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/29/2024,2024Q3,708291,Villa,regular_sale,1949,3075000,-4,6,191,16099.477,Strandvejen 31,3300,Frederiksværk,North Zealand,Zealand,3.35,1.13,4.34
+7/29/2024,2024Q3,708330,Villa,other_sale,1768,1500000,0,4,108,13888.889,Birkedommervej 1,8500,Grenaa,East & mid jutland,Jutland,3.35,1.13,4.34
+7/29/2024,2024Q3,708290,Villa,regular_sale,1952,490000,-10,2,74,6621.6216,Tinghøjvej 25,7470,Karup J,South jutland,Jutland,3.35,1.13,4.34
+7/29/2024,2024Q3,708314,Summerhouse,regular_sale,1972,700000,-7,4,57,12280.702,Teglgårdsparken 11,8882,Fårvang,East & mid jutland,Jutland,3.35,1.13,4.34
+7/29/2024,2024Q3,708397,Villa,regular_sale,1970,5050000,-5,5,168,30059.523,Kjærbovænge 1,3520,Farum,North Zealand,Zealand,3.35,1.13,4.34
+7/29/2024,2024Q3,708369,Villa,regular_sale,2014,2425000,-3,4,153,15849.673,Rugårdsvej 50,5463,Harndrup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/29/2024,2024Q3,708418,Villa,regular_sale,1972,1460000,9,9,135,10814.814,Gazellevej 10,8960,Randers SA,East & mid jutland,Jutland,3.35,1.13,4.34
+7/29/2024,2024Q3,708303,Apartment,regular_sale,1900,2050000,0,4,95,21578.947,"Mindegade 4, st. th",7430,Ikast,South jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708545,Villa,regular_sale,1958,425000,0,4,108,3935.1853,Kirkegade 11,6800,Varde,South jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708523,Villa,regular_sale,1966,2275000,-9,4,125,18200,Blåmunkevangen 2,3120,Dronningmølle,North Zealand,Zealand,3.35,1.13,4.34
+7/28/2024,2024Q3,708551,Villa,regular_sale,1968,4600000,-3,4,113,40707.965,Blomstermarken 14,3060,Espergærde,North Zealand,Zealand,3.35,1.13,4.34
+7/28/2024,2024Q3,708529,Townhouse,family_sale,1979,1552500,0,4,125,12420,Kildevangsparken 40,4390,Vipperød,Other islands,Zealand,3.35,1.13,4.34
+7/28/2024,2024Q3,708492,Villa,other_sale,1963,750000,0,4,121,6198.347,Vandmøllevej 24,8723,Løsning,East & mid jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708611,Villa,regular_sale,1964,1400000,-12,6,176,7954.5454,Elius Andersens Vej 34,9900,Frederikshavn,North jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708544,Apartment,regular_sale,1878,3714000,6,3,131,28351.145,"Nørregade 20, 3",9000,Aalborg,North jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708474,Townhouse,regular_sale,1973,2995000,0,4,106,28254.717,Georginehaven 104,2765,Smørum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/28/2024,2024Q3,708532,Apartment,regular_sale,1968,525000,0,4,92,5706.522,"Ãgirsvej 47, st. th",8920,Randers NV,East & mid jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708510,Villa,regular_sale,1983,2995000,0,7,160,18718.75,Frank Jægers Vej 11,8600,Silkeborg,East & mid jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708506,Villa,other_sale,1925,350000,0,4,101,3465.3464,Mamrelund 27,5370,Mesinge,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/28/2024,2024Q3,708614,Summerhouse,regular_sale,2018,3875000,-3,5,139,27877.697,Søren Møllersvej 20,8410,Rønde,East & mid jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708499,Apartment,regular_sale,1894,6300000,0,3,108,58333.332,"Godsbanegade 1, 1",7330,Brande,South jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708604,Townhouse,regular_sale,2008,2600000,0,4,116,22413.793,Dyssegårdsvej 2C,4621,Gadstrup,Other islands,Zealand,3.35,1.13,4.34
+7/28/2024,2024Q3,708473,Villa,regular_sale,1972,1850000,-2,8,212,8726.415,Valmuevej 4,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708513,Farm,regular_sale,1915,1050000,-4,5,201,5223.8804,Alstrupvej 14,6950,Ringkøbing,South jutland,Jutland,3.35,1.13,4.34
+7/28/2024,2024Q3,708476,Townhouse,regular_sale,1892,795000,0,4,78,10192.308,Lille Madsegade 93,3700,Rønne,Bornholm,Bornholm,3.35,1.13,4.34
+7/28/2024,2024Q3,708568,Summerhouse,regular_sale,1961,1910000,-4,6,102,18725.49,Kokkevang 13,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+7/27/2024,2024Q3,708649,Farm,family_sale,1880,6000000,0,5,210,28571.428,Rudmevej 145,5750,Ringe,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/27/2024,2024Q3,708675,Villa,regular_sale,1953,7995000,0,6,133,60112.78,Virum Stationsvej 210,2830,Virum,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/27/2024,2024Q3,708666,Villa,regular_sale,1988,4250000,-5,4,139,30575.54,Boholmsvej 6B,3250,Gilleleje,North Zealand,Zealand,3.35,1.13,4.34
+7/27/2024,2024Q3,708669,Apartment,regular_sale,1971,1625000,0,3,91,17857.143,"Holmegårdsparken 21, 2. tv",2980,Kokkedal,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/27/2024,2024Q3,708673,Villa,regular_sale,1972,1300000,-3,5,175,7428.5713,Sorø Landevej 317,4261,Dalmose,Other islands,Zealand,3.35,1.13,4.34
+7/26/2024,2024Q3,708744,Villa,regular_sale,1972,1000000,1,5,144,6944.4443,Vibevej 18,8830,Tjele,East & mid jutland,Jutland,3.35,1.13,4.34
+7/26/2024,2024Q3,708758,Villa,regular_sale,1964,3875000,-3,4,105,36904.76,Sjølundvej 3,2650,Hvidovre,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/25/2024,2024Q3,708775,Townhouse,regular_sale,1985,715000,-5,3,82,8719.512,Strandparken 1D,5642,Millinge,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/25/2024,2024Q3,708807,Summerhouse,regular_sale,1977,1630000,-4,4,61,26721.31,Banken 9,5900,Rudkøbing,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/25/2024,2024Q3,708860,Apartment,regular_sale,1897,2600000,0,3,55,47272.727,"Sjællandsgade 7, 1. tv",6700,Esbjerg,South jutland,Jutland,3.35,1.13,4.34
+7/25/2024,2024Q3,708894,Villa,regular_sale,1953,1850000,-2,6,139,13309.353,Pilevej 4,7700,Thisted,South jutland,Jutland,3.35,1.13,4.34
+7/25/2024,2024Q3,708815,Apartment,regular_sale,1935,4010000,-6,4,103,38932.04,"Engelsborgvej 27, 1. th",2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/25/2024,2024Q3,708995,Summerhouse,regular_sale,1959,1100000,0,2,42,26190.477,Hf. Maglebylund 89,2791,Dragør,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/25/2024,2024Q3,708898,Villa,regular_sale,1958,745000,0,4,126,5912.698,Allegade 40,6500,Vojens,South jutland,Jutland,3.35,1.13,4.34
+7/25/2024,2024Q3,708832,Villa,regular_sale,1958,5498000,0,7,155,35470.97,Neptunvej 4,8270,Højbjerg,East & mid jutland,Jutland,3.35,1.13,4.34
+7/25/2024,2024Q3,708963,Townhouse,regular_sale,2017,2575000,0,3,106,24292.453,Græsgangen 99,4100,Ringsted,Other islands,Zealand,3.35,1.13,4.34
+7/25/2024,2024Q3,708881,Villa,regular_sale,1981,685000,-7,5,180,3805.5557,Buevej 3A,5985,Søby Ãrø,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/25/2024,2024Q3,708962,Apartment,regular_sale,1946,278000,-26,2,92,3021.739,"Morumvej 17, 1",9600,Aars,North jutland,Jutland,3.35,1.13,4.34
+7/25/2024,2024Q3,708810,Villa,regular_sale,1962,1580000,-4,5,150,10533.333,Orenæsvej 32,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709138,Villa,regular_sale,1958,4750000,-1,5,152,31250,Nattergalevej 10,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709065,Apartment,regular_sale,1902,1775000,-4,2,89,19943.82,"Drewsensvej 54, st",8600,Silkeborg,East & mid jutland,Jutland,3.35,1.13,4.34
+7/24/2024,2024Q3,709028,Apartment,family_sale,1950,1300000,0,1,35,37142.855,"Helmer Søgårds Alle 12, st. mf",2770,Kastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709188,Apartment,regular_sale,1955,1800000,-2,2,53,33962.266,"Herlev Hovedgade 99A, 2. tv",2730,Herlev,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709132,Villa,regular_sale,1968,1800000,-5,4,130,13846.154,Odensevej 167,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709026,Townhouse,regular_sale,1936,1595000,0,4,114,13991.229,Kirkegade 17,4050,Skibby,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709212,Villa,regular_sale,1986,2095000,0,4,102,20539.215,Skovkanten 60,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709210,Villa,regular_sale,1984,6950000,-5,5,138,50362.32,Ellebuen 3,2950,Vedbæk,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709048,Summerhouse,regular_sale,1978,3600000,0,5,68,52941.176,Strandagervej 15,8250,Egå,East & mid jutland,Jutland,3.35,1.13,4.34
+7/24/2024,2024Q3,709037,Summerhouse,regular_sale,1966,1095000,0,4,57,19210.525,Søvang 5,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709018,Villa,regular_sale,1969,1875000,-11,4,140,13392.857,Kildevej 7,4050,Skibby,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709041,Villa,regular_sale,1979,2245000,0,4,106,21179.246,Ugandavej 9,4200,Slagelse,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709192,Villa,regular_sale,1969,3275000,-4,6,138,23731.885,Neptunvej 16,4040,Jyllinge,Other islands,Zealand,3.35,1.13,4.34
+7/24/2024,2024Q3,709245,Villa,regular_sale,2009,1085000,-1,3,82,13231.707,Hornfisken 58,9480,Løkken,North jutland,Jutland,3.35,1.13,4.34
+7/24/2024,2024Q3,709126,Villa,regular_sale,1947,1050000,-4,3,78,13461.538,Klostervej 41,8930,Randers NA,East & mid jutland,Jutland,3.35,1.13,4.34
+7/23/2024,2024Q3,709387,Villa,regular_sale,1735,1350000,-10,5,140,9642.857,Enghaven 30,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+7/23/2024,2024Q3,709427,Villa,regular_sale,2012,4250000,-5,7,215,19767.441,Nonbo Enge 21,8800,Viborg,East & mid jutland,Jutland,3.35,1.13,4.34
+7/23/2024,2024Q3,709397,Villa,regular_sale,1913,2195000,0,4,187,11737.968,Grønnegade 65,5560,Aarup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/23/2024,2024Q3,709405,Villa,regular_sale,1940,4550000,-3,9,248,18346.773,Halsebyvej 28C,4220,Korsør,Other islands,Zealand,3.35,1.13,4.34
+7/23/2024,2024Q3,709433,Farm,regular_sale,1900,1800000,0,7,199,9045.227,Fredensdal 57,9460,Brovst,North jutland,Jutland,3.35,1.13,4.34
+7/23/2024,2024Q3,709391,Villa,regular_sale,1929,1650000,0,5,94,17553.191,Dr Schadsvej 16,4500,Nykøbing Sj,Other islands,Zealand,3.35,1.13,4.34
+7/23/2024,2024Q3,709431,Apartment,regular_sale,1932,5510000,-2,4,98,56224.49,"Store Kongensgade 63A, st. 4",1264,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/23/2024,2024Q3,709429,Apartment,regular_sale,2014,5150000,-3,4,92,55978.26,"Margretheholmsvej 66, 4. th",1432,København K,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/23/2024,2024Q3,709381,Villa,regular_sale,1949,1395000,0,3,78,17884.615,Grumstrupvej 88,8732,Hovedgård,East & mid jutland,Jutland,3.35,1.13,4.34
+7/23/2024,2024Q3,709424,Summerhouse,regular_sale,1974,1100000,-23,4,87,12643.678,Flinteager 2,4583,Sjællands Odde,Other islands,Zealand,3.35,1.13,4.34
+7/22/2024,2024Q3,709677,Villa,regular_sale,1900,3300000,-13,12,287,11498.258,Agedrupvej 22,5320,Agedrup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/22/2024,2024Q3,709666,Summerhouse,regular_sale,1979,585000,-6,3,55,10636.363,Thorsvej 1,7790,Thyholm,South jutland,Jutland,3.35,1.13,4.34
+7/22/2024,2024Q3,709628,Apartment,regular_sale,1971,1400000,-7,3,119,11764.706,"Juelsparken 56, 1. tv",9210,Aalborg SA,North jutland,Jutland,3.35,1.13,4.34
+7/22/2024,2024Q3,709522,Summerhouse,regular_sale,1960,925000,-11,2,39,23717.95,Mosvigvej 27,6093,Sjølund,South jutland,Jutland,3.35,1.13,4.34
+7/22/2024,2024Q3,709657,Summerhouse,regular_sale,1970,1250000,-3,3,56,22321.428,Sitkavænget 29,5450,Otterup,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/22/2024,2024Q3,709626,Villa,regular_sale,1965,1700000,-10,7,119,14285.714,Duebakken 9,3760,Gudhjem,Bornholm,Bornholm,3.35,1.13,4.34
+7/22/2024,2024Q3,709535,Farm,family_sale,1920,7800000,0,7,178,43820.227,Lundsgårdsvej 4,6893,Hemmet,South jutland,Jutland,3.35,1.13,4.34
+7/22/2024,2024Q3,709554,Villa,regular_sale,1953,4750000,-1,4,159,29874.213,Lærkevej 5,2630,Taastrup,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/22/2024,2024Q3,709578,Villa,regular_sale,1966,2070000,-1,6,164,12621.951,Tyttebærvej 14,7200,Grindsted,South jutland,Jutland,3.35,1.13,4.34
+7/22/2024,2024Q3,709583,Villa,regular_sale,1877,1450000,-3,4,136,10661.765,Byvejen 21,8305,Samsø,East & mid jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078532,Villa,regular_sale,1978,2095000,0,6,157,13343.949,Nørrediget 23,7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078473,Summerhouse,regular_sale,1961,1795000,-10,3,72,24930.555,Nyvej 10,6720,Fanø,South jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078543,Villa,regular_sale,1973,1798000,0,4,125,14384,Lindelunden 17,6705,Esbjerg A,South jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078470,Villa,regular_sale,1978,715000,3,3,134,5335.821,Fanefjordgade 116,4792,Askeby,Other islands,Zealand,3.35,1.13,4.34
+7/21/2024,2024Q3,1078482,Villa,regular_sale,1960,8500000,0,4,151,56291.39,Vallerød Banevej 18B,2960,Rungsted Kyst,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/21/2024,2024Q3,1078565,Townhouse,family_sale,1985,1100000,0,3,82,13414.634,Dalsøvej 159B,7200,Grindsted,South jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,709695,Villa,regular_sale,1907,1300000,-35,7,257,5058.3657,Jellingvej 22,7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078468,Apartment,regular_sale,1895,3430000,-2,2,61,56229.508,"Enghavevej 23, 2. tv",1674,København V,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/21/2024,2024Q3,1078536,Summerhouse,regular_sale,1967,1275000,-7,2,84,15178.571,Orebjergvej 32,3630,Jægerspris,North Zealand,Zealand,3.35,1.13,4.34
+7/21/2024,2024Q3,1078505,Summerhouse,regular_sale,1969,2167500,-3,4,93,23306.451,Kærvej 24,6854,Henne,South jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,709701,Villa,regular_sale,1976,1510250,-4,6,173,8729.769,Søndergade 99,8740,Brædstrup,East & mid jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078519,Villa,regular_sale,1976,1675000,-3,5,136,12316.177,Blåmejsevej 21,9600,Aars,North jutland,Jutland,3.35,1.13,4.34
+7/21/2024,2024Q3,1078526,Townhouse,regular_sale,1989,1300000,-4,4,87,14942.528,Tropavænget 34,4700,Næstved,Other islands,Zealand,3.35,1.13,4.34
+7/21/2024,2024Q3,1078557,Apartment,regular_sale,1900,3000000,-14,4,148,20270.27,"Nørrebro 8A, 1",6400,Sønderborg,South jutland,Jutland,3.35,1.13,4.34
+7/20/2024,2024Q3,1078651,Apartment,regular_sale,2009,3825000,-4,3,113,33849.56,"Trollesvej 2, 1. 3",3400,Hillerød,North Zealand,Zealand,3.35,1.13,4.34
+7/19/2024,2024Q3,1078667,Villa,regular_sale,1968,6900000,-1,6,178,38764.047,Langkær Vænge 86,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+7/19/2024,2024Q3,1078659,Townhouse,regular_sale,1968,525000,-4,4,90,5833.3335,Hans Tausens Vej 28,9800,Hjørring,North jutland,Jutland,3.35,1.13,4.34
+7/19/2024,2024Q3,1078681,Villa,regular_sale,1955,3754000,-1,5,145,25889.654,Fuglesangsvej 7,3460,Birkerød,North Zealand,Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078902,Villa,regular_sale,1939,700000,-12,3,87,8045.977,Kyradservej 38,8700,Horsens,East & mid jutland,Jutland,3.35,1.13,4.34
+7/18/2024,2024Q3,1078768,Apartment,regular_sale,1922,2130000,-1,1,34,62647.06,"Holger Danskes Vej 30, 1. 10",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078887,Apartment,regular_sale,2017,4500000,-2,4,90,50000,"Kløverbladsgade 67, 1. th",2500,Valby,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078865,Villa,regular_sale,1898,1295000,0,3,100,12950,Asterbyvej 9,7400,Herning,South jutland,Jutland,3.35,1.13,4.34
+7/18/2024,2024Q3,1078833,Villa,regular_sale,1971,4150000,0,4,106,39150.945,Krøyersvej 19,3000,Helsingør,North Zealand,Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078810,Apartment,regular_sale,1938,2100000,-6,2,64,32812.5,"Niels Juels Gade 18, 4. tv",8200,Aarhus N,East & mid jutland,Jutland,3.35,1.13,4.34
+7/18/2024,2024Q3,1078842,Villa,regular_sale,1970,1300000,-7,4,111,11711.712,Hjortevej 5,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078841,Townhouse,regular_sale,1985,2995000,0,5,112,26741.072,Lundegårdshegnet 98,4030,Tune,Other islands,Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078713,Apartment,regular_sale,1975,3050000,-5,2,52,58653.848,"Grundtvigs Sidevej 5, 2. mf",1865,Frederiksberg C,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078843,Summerhouse,regular_sale,1973,970000,0,4,54,17962.963,Fosforitvej 17,3700,Rønne,Bornholm,Bornholm,3.35,1.13,4.34
+7/18/2024,2024Q3,1078730,Villa,family_sale,1960,1151200,0,8,172,6693.0234,Bjergskovvej 33,4300,Holbæk,Other islands,Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078909,Apartment,regular_sale,1937,2650000,-2,2,69,38405.797,"P.P. Arums Gade 44, 2. th",8000,Aarhus C,East & mid jutland,Jutland,3.35,1.13,4.34
+7/18/2024,2024Q3,1078728,Townhouse,regular_sale,1979,3600000,-3,4,116,31034.482,Jonstrupvej 269C,3500,Værløse,North Zealand,Zealand,3.35,1.13,4.34
+7/18/2024,2024Q3,1078822,Apartment,regular_sale,1901,1440000,-7,2,49,29387.756,"Enggårdsvej 12, st",8230,Ãbyhøj,East & mid jutland,Jutland,3.35,1.13,4.34
+7/17/2024,2024Q3,1078998,Villa,regular_sale,1974,1375000,-5,4,113,12168.142,Godtlandsvej 36,9310,Vodskov,North jutland,Jutland,3.35,1.13,4.34
+7/17/2024,2024Q3,1079048,Villa,regular_sale,1947,5100000,-7,6,150,34000,Strandvejen 43,8305,Samsø,East & mid jutland,Jutland,3.35,1.13,4.34
+7/17/2024,2024Q3,1079004,Apartment,regular_sale,2005,2040000,-3,2,92,22173.912,"Anders Nielsens Vej 1, 2. th",9400,Nørresundby,North jutland,Jutland,3.35,1.13,4.34
+7/17/2024,2024Q3,1078939,Villa,regular_sale,1934,1425000,-2,4,117,12179.487,Nørregade 19,4760,Vordingborg,Other islands,Zealand,3.35,1.13,4.34
+7/17/2024,2024Q3,1079023,Apartment,regular_sale,1966,1630000,-1,1,52,31346.154,"Edouard Suensons Gade 6, 4. t",8200,Aarhus N,East & mid jutland,Jutland,3.35,1.13,4.34
+7/17/2024,2024Q3,1079153,Apartment,regular_sale,1991,4110000,-4,3,102,40294.117,"A.D. Jørgensens Vej 67, 2. 2",2000,Frederiksberg,"Capital, Copenhagen",Zealand,3.35,1.13,4.34
+7/17/2024,2024Q3,1079164,Summerhouse,regular_sale,1972,500000,0,2,41,12195.122,Dageløkke Marina 14B,5953,Tranekær,Fyn & islands,Fyn & islands,3.35,1.13,4.34
+7/17/2024,2024Q3,1079137,Apartment,regular_sale,2023,3595000,0,3,119,30210.084,"Flegmade 9L, 1. th",7100,Vejle,South jutland,Jutland,3.35,1.13,4.34
