@@ -13,13 +13,9 @@ This project analyzes **33 years of Danish Housing Prices from 1992 to 2024**. T
 ## Tools Used
 
 - **Python:** For initial data cleaning and transformation.
-
 - **BigQuery:** As the data storage and connection.
-
 - **Power Query:** For data modeling (star schema) and further transformation.
-
 - **Power BI:** For building DAX measures and developing interactive dashboards.
-
 - **Git & GitHub:** For version control and project documentation.
 
 ---
